@@ -8,3 +8,4 @@
     - The stylized translations for the 200 sentences are saved in `data/data_from_llm.csv`, where 1-50, 51-100, 101-150, 151-200 sentences are translated in the style of *Polite*, *Casual*, *Technical*, and *Humorous*, respectively. 
   - The rest ***200*** instances (`data/sample_200_for_gold.csv`) are taken as gold translation from Translator (e.g., Google Translator).  
 
+- Generated Data: Based on each instance, we apply 7 different mutations (6 syntax and 1 semantics) to the gold sentence and the results are saved in `data/generated_data/`.
