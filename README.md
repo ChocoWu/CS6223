@@ -9,4 +9,4 @@
   - The rest ***200*** instances (`data/sample_200_for_gold.csv`) are taken as gold translation from Translator (e.g., Google Translator).  
 
 - Generated Data: Based on each instance, we apply different mutations, and the results are saved in `data/generated_data/`.
-  - The mutation is chosen from \["grammer_swap", "grammer_agreement", "grammer_punc", "semantic_substitution", "semantic_omission", "semantic_addition", "semantic_ambiguity"\]
+  - The mutation is chosen from \[*grammer_swap*, *grammer_agreement*,  *grammer_punc*, *semantic_substitution*, *semantic_omission*, *semantic_addition*, *semantic_ambiguity*\]
