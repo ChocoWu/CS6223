@@ -1,0 +1,1602 @@
+[
+    {
+        "zh_sent": "新法律自 1 月 1 日起生效，要求警察只有在应对对警察或周围人员的致命威胁的“必要时刻”，才能使用致命武力。",
+        "en_ori_sent": "The new law, which takes effect Jan. 1, will allow police to use deadly force only when \"necessary\" to defend against an imminent threat of death or serious injury to officers or bystanders.",
+        "en_modi_sent": "The new law, which takes effect Jan. 1, will allows police to use deadly force only when\"necessary\" to defend against an imminent threat of death or serious injury to officers or bystanders.",
+        "modi_type": "grammer_agreement",
+        "ori_word": "allow",
+        "modi_word": "allows"
+    },
+    {
+        "zh_sent": "这名男子被严重烧伤，目前在医院，情况危急但稳定。",
+        "en_ori_sent": "He is in hospital in a critical but stable condition after suffering serious burns.",
+        "en_modi_sent": "He suffering in hospital in a critical but stable condition after is serious burns.",
+        "modi_type": "grammer_swap",
+        "ori_word": "suffering",
+        "modi_word": "is"
+    },
+    {
+        "zh_sent": "这些信是邮寄给她患有自闭症住在私人护理院的儿子的，她解释说。但拆开信件，信里未提及她儿子的名字，而是说“尊敬的缅因州卫生与公众服务部——辛辛那提”，她告诉当地媒体。",
+        "en_ori_sent": "They were addressed to her son, who has autism and lives in a private care facility, she said. But instead of her son's name inside when you opened them, the letters said Dear Maine's Department of Health and Human Services -- in Cincinnati, she told local media.",
+        "en_modi_sent": "They were addressed to her son, who has autism and lives in a private care facility, she said. Maine instead of her son 's name inside when you opened them, the letters said Dear But 's Department of Health and Human Services -- in Cincinnati, she told local media.",
+        "modi_type": "grammer_swap",
+        "ori_word": "Maine",
+        "modi_word": "But"
+    },
+    {
+        "zh_sent": "联邦调查人员检查了相关证据，包括目击证人证言、现场视频与录音、出警记录、警察报告和尸检报告，用于判断当事警察是否故意使用超过客观合理限度的武力。",
+        "en_ori_sent": "The federal investigation looked at evidence such as witness statements, audio and video recordings, dispatch records, police reports, and autopsy reports to determine whether the officers acted willfully with the intent to use objectively unreasonable force.",
+        "en_modi_sent": "The federal investigation such at evidence looked as witness statements, audio and video recordings, dispatch records, police reports, and autopsy reports to determine whether the officers acted willfully with the intent to use objectively unreasonable force.",
+        "modi_type": "grammer_swap",
+        "ori_word": "looked",
+        "modi_word": "such"
+    },
+    {
+        "zh_sent": "通常原油出口前要进行检验，保证其符合接收该原油的炼油厂的标准。不同油田出产的原油可以根据一系列化学成分加以识别，包括硫含量、氮含量、酸度以及粘度。",
+        "en_ori_sent": "Crude oil is tested before export to make sure it complies with the standards of the refinery it is being shipped to. Crude oil from different fields can be identified according to a series of chemical signatures, including levels of sulfur and nitrogen, acidity and viscosity.",
+        "en_modi_sent": "Crude oil is tested before export to make sure it complies with the standards of sulfur refinery it is being shipped to. Crude oil from different fields can be identified according to a series of chemical signatures, including levels of the and nitrogen, acidity and viscosity.",
+        "modi_type": "grammer_swap",
+        "ori_word": "the",
+        "modi_word": "sulfur"
+    },
+    {
+        "zh_sent": "“红矮星释放的能量更少，因此辐射出的光芒也十分微弱，它们的表面温度也很低，大约在 3,800（度）开尔文（6,380 华氏度/3,527 摄氏度）以下。这也解释了红矮星为什么是微红色的，”莫拉莱斯说道。",
+        "en_ori_sent": "\"They emit less energy, so they are fainter than the sun, and their surface temperature is rather cool, below 3800 (degrees) Kelvin (6,380 degrees Fahrenheit/3,527 Celsius) approximately. This is why the have a reddish color,\" Morales said.",
+        "en_modi_sent": "\"They emit less energy, so they are fainter than the sun, and their surface temperature is rather cool, degrees 3800 ( degrees ) Kelvin ( 6,380 below Fahrenheit/3,527 Celsius ) approximately. This is why the have a reddish color,\" Morales said.",
+        "modi_type": "grammer_swap",
+        "ori_word": "degrees",
+        "modi_word": "below"
+    },
+    {
+        "zh_sent": "今年，现役军人中的自杀率飙升至历史新高，这种形势的延续非常致命，五角大楼官员表示，情况令人沮丧，目前正在积极应对。",
+        "en_ori_sent": "Military suicides surged this year to a record high among active duty troops, continuing a deadly trend that Pentagon officials say is frustrating and they are struggling to counter.",
+        "en_modi_sent": "Military suicides surged counter year to a record high among active duty troops, continuing a deadly trend that Pentagon officials say is frustrating and they are struggling to this.",
+        "modi_type": "grammer_swap",
+        "ori_word": "this",
+        "modi_word": "counter"
+    },
+    {
+        "zh_sent": "他补充说：“这支部队没有一贯公平和尊重员工，也没有有效地与员工沟通或理解员工；流程被认为不公平，而且对员工的理解不足，无法支持员工。”",
+        "en_ori_sent": "He added: \"It doesn't consistently treat its workforce with fairness and respect and it doesn't effectively communicate with or engage its workforce; its processes aren't perceived to be fair and it doesn't understand its workforce well enough to support them.\"",
+        "en_modi_sent": "He added:\"It does n't consistently treat its workforce with fairness and respect and it does n't effectively communicate with or engage its workforce; its n't are n't perceived to be fair and it does processes understand its workforce well enough to support them.\"",
+        "modi_type": "grammer_swap",
+        "ori_word": "processes",
+        "modi_word": "n't"
+    },
+    {
+        "zh_sent": "电台主持人赛斯·丹拉普曾说过，他在一个恐同且充满敌意的环境中工作多年。在声称收到电台推特账户发来的反同诽谤推文后，他威胁要起诉。",
+        "en_ori_sent": "Radio host Seth Dunlap claimed he worked in a homophobic and hostile workplace for years. After allegedly receiving a tweet with an anti-gay slur from the radio station's Twitter, he threatened to sue.",
+        "en_modi_sent": "Radio host slur Dunlap claimed he worked in a homophobic and hostile workplace for years. After allegedly receiving a tweet with an anti-gay Seth from the radio station 's Twitter, he threatened to sue.",
+        "modi_type": "grammer_swap",
+        "ori_word": "slur",
+        "modi_word": "Seth"
+    },
+    {
+        "zh_sent": "苏格兰民族党已表示可能会支持杰里米·科尔宾出任英国首相府的临时首相，以阻挠无协议脱欧。",
+        "en_ori_sent": "The SNP has signalled it could support installing Jeremy Corbyn in Downing Street on a temporary basis to thwart a no-deal Brexit.",
+        "en_modi_sent": "The SNP has signalled it could support installing Jeremy Corbyn in Downing Street on a temporary basis to thwarts a no-deal Brexit.",
+        "modi_type": "grammer_agreement",
+        "ori_word": "thwart",
+        "modi_word": "thwarts"
+    },
+    {
+        "zh_sent": "鲁昂一家润滑油厂在星期四失火，未有人员受伤，但附近塞纳河两岸的居民对潜在的健康风险和后果表示了担忧。",
+        "en_ori_sent": "No one was injured in Thursday's fire at a lubricant plant in Rouen, but residents have expressed concern about possible health risks and consequences for the nearby Seine River.",
+        "en_modi_sent": "fire one was injured in Thursday 's No at a lubricant plant in Rouen, but residents have expressed concern about possible health risks and consequences for the nearby Seine River.",
+        "modi_type": "grammer_swap",
+        "ori_word": "No",
+        "modi_word": "fire"
+    },
+    {
+        "zh_sent": "备受低油价影响，政府表示，希望到 2030 年，旅游业对国内生产总值的贡献率能达到 10% ，而目前只有 3% 。",
+        "en_ori_sent": "The government, reeling from low oil prices, says it hopes tourism will contribute up to 10 percent of the gross domestic product by 2030, compared to three percent currently.",
+        "en_modi_sent": "The government, reeling from low oil prices, says it domestic tourism will contribute up to 10 percent of the gross hopes product by 2030, compared to three percent currently.",
+        "modi_type": "grammer_swap",
+        "ori_word": "domestic",
+        "modi_word": "hopes"
+    },
+    {
+        "zh_sent": "香港警方称抗议活动中学生被捕人数增加",
+        "en_ori_sent": "Hong Kong police say student arrests at protests increase",
+        "en_modi_sent": "student Kong police say Hong arrests at protests increase",
+        "modi_type": "grammer_swap",
+        "ori_word": "Hong",
+        "modi_word": "student"
+    },
+    {
+        "zh_sent": "沃尔特被指控是另一名男子卡梅伦·佩蒂特的药品来源，该男子曾把药物卖给米勒。",
+        "en_ori_sent": "Walter is accused of being the source of the pills that another man, Cameron Pettit, sold to Miller.",
+        "en_modi_sent": "Walter is accused of being the source of the pills that another man, Pettit Cameron, sold to Miller.",
+        "modi_type": "grammer_swap",
+        "ori_word": "Cameron",
+        "modi_word": "Pettit"
+    },
+    {
+        "zh_sent": "在目前的宇宙中，星系团可以包含数百个星系，但这些星系团是如何形成的在天文领域仍是一大疑问。为了了解星系团的形成，天文学家寻找古代宇宙中可能的起源。原星系团是早期宇宙中由数十个星系组成的稠密系统，并逐渐形成一个星系团。",
+        "en_ori_sent": "In the present Universe, galaxy clusters can contain hundreds of members, but how these clusters form is a big question in astronomy. To understand the formation of clusters, astronomers search for possible progenitors in the ancient Universe. A protocluster is a dense system of dozens of galaxies in the early Universe, growing into a cluster.",
+        "en_modi_sent": "In the present Universe, galaxy clusters can contain hundreds of members, but how these clusters form is a big question in astronomy. To understand the formation of clusters, astronomers search for a progenitors in the ancient Universe. A protocluster is possible dense system of dozens of galaxies in the early Universe, growing into a cluster.",
+        "modi_type": "grammer_swap",
+        "ori_word": "a",
+        "modi_word": "possible"
+    },
+    {
+        "zh_sent": "只要德·格罗德继续服药，再犯罪的风险就不会很大，那么人们为什么这么担心呢？我认为，人们对精神病患者，特别是精神分裂症患者的污名，很大程度上导致了这种恐惧。某些精神疾病已经变得不那么可怕了，比如情绪和焦虑障碍。但其他疾病，包括精神分裂症，仍然被高度污名化。这在很大程度上是因为许多人把精神分裂症患者描绘成危险人物，他们的脑袋里有声音告诉他们要杀人。",
+        "en_ori_sent": "As long as de Grood continues to take his medication, there isn't a huge risk of reoffense, so why are people so concerned? I believe the stigma surrounding people with mental illness, particularly those with schizophrenia, largely influences this fear. Certain mental illnesses have become less stigmatized, such as mood and anxiety disorders. But others, including schizophrenia, remain highly stigmatized. This is in large part due to numerous portrayals of schizophrenics as dangerous people with voices in their heads telling them to kill people.",
+        "en_modi_sent": "As long as de Grood continues to take his medication, there isn't a huge risk of reoffense, so why are people so concerned! I believe the stigma surrounding people with mental illness, particularly those with schizophrenia, largely influences this fear. Certain mental illnesses have become less stigmatized, such as mood and anxiety disorders. But others, including schizophrenia, remain highly stigmatized. This is in large part due to numerous portrayals of schizophrenics as dangerous people with voices in their heads telling them to kill people.",
+        "modi_type": "grammer_punc",
+        "ori_word": "?",
+        "modi_word": "!"
+    },
+    {
+        "zh_sent": "如果发生更严重的扰动，电网也会发生波动。提供导航信息的卫星信号也会很弱。",
+        "en_ori_sent": "In case of more severe disturbances, there are also fluctuations in the electricity grid. Satellites providing navigation information are also vulnerable.",
+        "en_modi_sent": "In case of more severe disturbances, there are also information in the electricity grid. Satellites providing navigation fluctuations are also vulnerable.",
+        "modi_type": "grammer_swap",
+        "ori_word": "information",
+        "modi_word": "fluctuations"
+    },
+    {
+        "zh_sent": "养老保护基金的一位发言人表示：\"一些破产事件的发生，比如托马斯·库克的破产，正是养老保护基金成立的原因。",
+        "en_ori_sent": "A PPF spokesperson said: \"Insolvency events, like the liquidation of Thomas Cook, are exactly why the PPF was set up.",
+        "en_modi_sent": "A PPF spokesperson said:\"Insolvency events, the the liquidation of Thomas Cook, are exactly why like PPF was set up.",
+        "modi_type": "grammer_swap",
+        "ori_word": "the",
+        "modi_word": "like"
+    },
+    {
+        "zh_sent": "五角大楼星期四宣布，由于本月初沙特石油设施遭到袭击，美国计划向沙特调派一枚爱国者导弹电池、雷达系统和大约 200 名支持人员。",
+        "en_ori_sent": "The Pentagon on Thursday announced that the U.S. will send a Patriot missile battery, radars and roughly 200 support personnel to Saudi Arabia in the wake of the attacks on its oil facilities earlier this month.",
+        "en_modi_sent": "The Pentagon on Thursday announced that the U.S. will send a Patriot missile battery, radars and roughly 200 support personnel to Saudi Arabia in of wake the the attacks on its oil facilities earlier this month.",
+        "modi_type": "grammer_swap",
+        "ori_word": "of",
+        "modi_word": "the"
+    },
+    {
+        "zh_sent": "这些信都是有关联合健康保险投保范围外 54 或 0 美元的索赔，雷女士说。",
+        "en_ori_sent": "The letters were about a $54 or $0 healthcare claim that United Healthcare said is not covered, Lay said.",
+        "en_modi_sent": "The letters were about a $ 54 or $ 0 healthcare claim that United Healthcare said said not covered, Lay is.",
+        "modi_type": "grammer_swap",
+        "ori_word": "is",
+        "modi_word": "said"
+    },
+    {
+        "zh_sent": "意大利选手法比奥·法尼尼在星期六输给美国选手坦尼斯·桑德格伦第三轮比赛后说了句“应该在网球场上引爆炸弹”，因而被罚款 3000 美元。",
+        "en_ori_sent": "Italian player Fabio Fognini was fined $3,000 for saying a \"bomb should explode\" at the tennis courts after he lost the third round to U.S. player Tennys Sandgren on Saturday.",
+        "en_modi_sent": "Italian player Fabio Fognini was fined $ 3,000 for saying a\"bomb should explodes\" at the tennis courts after he lost the third round to U.S. player Tennys Sandgren on Saturday.",
+        "modi_type": "grammer_agreement",
+        "ori_word": "explode",
+        "modi_word": "explodes"
+    },
+    {
+        "zh_sent": "官方消息称，根据《基本规则》第 56（J）条，负责监督商品及服务税和进口税征收的中央间接税和海关委员会因腐败和其它指控，强制要求 15 名高级官员退休。",
+        "en_ori_sent": "The Central Board of Indirect Taxes and Customs (CBIC) -- the agency that oversees GST and import tax collections -- compulsorily retired 15 senior officers under Fundamental Rule 56 (J) on corruption and other charges, official sources said.",
+        "en_modi_sent": "The Central Board of Indirect Taxes and Customs ( CBIC the -- ) agency that oversees GST and import tax collections -- compulsorily retired 15 senior officers under Fundamental Rule 56 ( J ) on corruption and other charges, official sources said.",
+        "modi_type": "grammer_swap",
+        "ori_word": "the",
+        "modi_word": ")"
+    },
+    {
+        "zh_sent": "在 2009 年，母亲鲁比和另一只名叫南希的雌性动物加入了野生动物公园，希望与蒙蒂生下公园里的第一只小犀牛。",
+        "en_ori_sent": "Mother Ruby joined the wildlife park in 2009 alongside another female called Nancy in the hope that one would produce the park's first ever calf with Monty.",
+        "en_modi_sent": "Mother Ruby joined called wildlife park in 2009 alongside another female the Nancy in the hope that one would produce the park 's first ever calf with Monty.",
+        "modi_type": "grammer_swap",
+        "ori_word": "called",
+        "modi_word": "the"
+    },
+    {
+        "zh_sent": "报道称，该公司正在接受西班牙高等法院的调查。",
+        "en_ori_sent": "The company is being investigated over the claims by Spain's High Court, the Audiencia Nacional, said the report.",
+        "en_modi_sent": "The company is being investigated over the claims the Spain 's High Court, the Audiencia Nacional, said by report.",
+        "modi_type": "grammer_swap",
+        "ori_word": "the",
+        "modi_word": "by"
+    },
+    {
+        "zh_sent": "“我们为养老金固定收益计划成员的未来提供金融保障，计划成员应该放心，我们是会保护他们的。”",
+        "en_ori_sent": "\"We are here to protect the financial futures of members belonging to defined benefit pension schemes and they should take comfort knowing we are here to protect them.\"",
+        "en_modi_sent": "\"We are here to protect the financial futures of members belonging to defined benefit pension schemes and they should takes comfort knowing we are here to protect them.\"",
+        "modi_type": "grammer_agreement",
+        "ori_word": "take",
+        "modi_word": "takes"
+    },
+    {
+        "zh_sent": "碧翠斯公主的父母安德鲁王子和莎拉·弗格森也表达了他们的兴奋之情。",
+        "en_ori_sent": "Princess Beatrice's parents, Prince Andrew and Sarah Ferguson, also shared their excitement.",
+        "en_modi_sent": "also Beatrice 's parents, Prince Andrew and Sarah Ferguson, Princess shared their excitement.",
+        "modi_type": "grammer_swap",
+        "ori_word": "also",
+        "modi_word": "Princess"
+    },
+    {
+        "zh_sent": "经纪人呼吁大家不要相信社交网络和世界各地黄色杂志上“泄漏”的任何照片。",
+        "en_ori_sent": "The manager urged not to believe in any photos that \"leak\" on social networks and in yellow magazines around the world.",
+        "en_modi_sent": "The manager urged not to believe networks any photos that\"leak\" on social in and in yellow magazines around the world.",
+        "modi_type": "grammer_swap",
+        "ori_word": "in",
+        "modi_word": "networks"
+    },
+    {
+        "zh_sent": "美国总统唐纳德·特朗普提名彼得·盖纳出任联邦紧急事务管理署署长，白宫在一份声明中表示。",
+        "en_ori_sent": "U.S. President Donald Trump nominated Peter Gaynor on Thursday to head the Federal Emergency Management Agency (FEMA), the White House said in a statement.",
+        "en_modi_sent": "U.S. President Donald Trump nominated Peter Gaynor on Thursday to in the Federal Emergency Management Agency ( FEMA ), the White House said head a statement.",
+        "modi_type": "grammer_swap",
+        "ori_word": "in",
+        "modi_word": "head"
+    },
+    {
+        "zh_sent": "众议院主席警告特朗普停止攻击告密者",
+        "en_ori_sent": "House chairmen warn Trump to stop attacking whistleblower",
+        "en_modi_sent": "House chairmen warn stop to Trump attacking whistleblower",
+        "modi_type": "grammer_swap",
+        "ori_word": "stop",
+        "modi_word": "Trump"
+    },
+    {
+        "zh_sent": "但是，自由民主党认为，科尔宾先生领导之下的临时政府需要获得前保守党国会议员和本党叛徒的支持，因此无法在众议院获得必要的支持。",
+        "en_ori_sent": "However the Liberal Democrats believe a temporary government led by Mr Corbyn cannot achieve the necessary support across the House, as he would need the backing of ex-Tory MPs and defectors from his own party.",
+        "en_modi_sent": "However the Liberal Democrats believe a the government led by Mr Corbyn can not achieve the necessary support across temporary House, as he would need the backing of ex-Tory MPs and defectors from his own party.",
+        "modi_type": "grammer_swap",
+        "ori_word": "temporary",
+        "modi_word": "the"
+    },
+    {
+        "zh_sent": "托马斯·库克到底出了什么问题?",
+        "en_ori_sent": "What went so wrong for Thomas Cook?",
+        "en_modi_sent": "Cook went so wrong for Thomas What?",
+        "modi_type": "grammer_swap",
+        "ori_word": "Cook",
+        "modi_word": "What"
+    },
+    {
+        "zh_sent": "弗吉尼亚州的一名黑人中学生指控三名白人男孩困住了她并剪断了她的辫子。该事件发生在以马内利基督学校，副总统迈克·彭斯的夫人凯伦·彭斯在该学校任教。",
+        "en_ori_sent": "A black middle school student from Virginia is accusing three white boys of pinning her down and cutting off her dreadlocks. The incident took place at Immanuel Christian School - where Vice President Mike Pence's wife, Karen Pence, is a teacher.",
+        "en_modi_sent": "A black middle school student from Virginia is accusing three white boys of pinning down her and cutting off her dreadlocks. The incident took place at Immanuel Christian School - where Vice President Mike Pence 's wife, Karen Pence, is a teacher.",
+        "modi_type": "grammer_swap",
+        "ori_word": "her",
+        "modi_word": "down"
+    },
+    {
+        "zh_sent": "7 月 19日，因这艘船涉嫌违反国际海事法在霍尔木兹海峡进入伊朗水域，伊朗革命卫队将其扣押。",
+        "en_ori_sent": "The ship was captured by the Iranian Revolutionary Guard Corps on July 19 for having violated international maritime law when it allegedly veered into Iranian waters in the Strait of Hormuz.",
+        "en_modi_sent": "The in was captured by the Iranian Revolutionary Guard Corps on July 19 for having violated international maritime law when it allegedly veered into Iranian waters ship the Strait of Hormuz.",
+        "modi_type": "grammer_swap",
+        "ori_word": "in",
+        "modi_word": "ship"
+    },
+    {
+        "zh_sent": "自从 3 月布罗克·朗辞职后，该机构尚无参议院批准的负责人。管理署的上级部门 - 国土安全部认定朗违规使用公车，用于往返华盛顿和他在北卡罗来纳州的住所，随后朗辞任署长一职。",
+        "en_ori_sent": "The agency has been without a Senate-confirmed administrator since March, when Brock Long left the post. Long resigned after the Department of Homeland Security, under which FEMA falls, concluded Long had inappropriately used government vehicles to commute between Washington and his home in North Carolina.",
+        "en_modi_sent": "The agency has been without a Senate-confirmed administrator since March, when Brock Long left the post. Long resigned after the Department of Homeland Security, under which FEMA falls, concluded Long had to used government vehicles inappropriately commute between Washington and his home in North Carolina.",
+        "modi_type": "grammer_swap",
+        "ori_word": "to",
+        "modi_word": "inappropriately"
+    },
+    {
+        "zh_sent": "克利夫兰警方在各个方面都被检查人员标签为“失败”",
+        "en_ori_sent": "Cleveland police branded 'failing' in all areas by inspectors",
+        "en_modi_sent": "Cleveland police branded 'failing in ' all areas by inspectors",
+        "modi_type": "grammer_swap",
+        "ori_word": "'",
+        "modi_word": "in"
+    },
+    {
+        "zh_sent": "沙特阿拉伯首次提供旅游签证，废除阿巴亚长袍规定",
+        "en_ori_sent": "Saudi Arabia To Offer Tourist Visas For First Time, Abolish Abaya Rule",
+        "en_modi_sent": "Saudi Arabia To Offer Tourist Visas For Abaya Time, Abolish First Rule",
+        "modi_type": "grammer_swap",
+        "ori_word": "Abaya",
+        "modi_word": "First"
+    },
+    {
+        "zh_sent": "戈姆莱补充道：“该部队没有适当地优先考虑预防犯罪。缺乏战略方向且部队分配给防御工作的资源不足......未能对儿童等弱势群体给与适当保护。失去了保护他们的机会并使他们面临风险。”",
+        "en_ori_sent": "Gormley added: \"The force doesn't appropriately prioritise crime prevention. There is a lack of strategic direction, and the force doesn't allocate enough resources to prevention work ... It is failing to respond appropriately to vulnerable people, including children. It is missing opportunities to safeguard them and exposing them to risk.\"",
+        "en_modi_sent": "Gormley added:\"The force does n't appropriately prioritise crime prevention. There is a lack of strategic direction, and the force does n't allocate enough resources to prevention work ... It is failing to responds appropriately to vulnerable people, including children. It is missing opportunities to safeguard them and exposing them to risk.\"",
+        "modi_type": "grammer_agreement",
+        "ori_word": "respond",
+        "modi_word": "responds"
+    },
+    {
+        "zh_sent": "该咨询于星期五在政府网站上发布，内容如下：“统一有效执法是解决苏格兰相关失控犬问题的关键所在。",
+        "en_ori_sent": "The consultation, launched on the Government's website on Friday, says: \"Effective and consistent enforcement across Scotland is fundamental in helping address issues relating to out-of-control dogs.",
+        "en_modi_sent": "The consultation, launched on the Government 's website on Friday, say:\"Effective and consistent enforcement across Scotland is fundamental in helping address issues relating to out-of-control dogs.",
+        "modi_type": "grammer_agreement",
+        "ori_word": "says",
+        "modi_word": "say"
+    },
+    {
+        "zh_sent": "来自宾夕法尼亚州的民主党众议员马特·卡特赖特告诉美国有线电视新闻网，目前他不会投票支持弹劾条款。",
+        "en_ori_sent": "Rep. Matt Cartwright, a Democrat from Pennsylvania, told CNN that he wouldn't -- at this point -- vote for articles of impeachment.",
+        "en_modi_sent": "Rep. Matt Cartwright, a Democrat n't Pennsylvania, told CNN that he would from -- at this point -- vote for articles of impeachment.",
+        "modi_type": "grammer_swap",
+        "ori_word": "from",
+        "modi_word": "n't"
+    },
+    {
+        "zh_sent": "7 月份，该委员会的议员得出结论，认为目前的养狗法与目的不切合，呼吁苏格兰政府对所有的养狗法进行全面审查。",
+        "en_ori_sent": "In July, the committee's MSPs concluded current dog control legislation is not fit for purpose and called on the Scottish Government to undertake a comprehensive review of all dog-control laws.",
+        "en_modi_sent": "In July, the committee 's MSPs concluded current dog control legislation is not fit for purpose and called on the Scottish Government to undertakes a comprehensive review of all dog-control laws.",
+        "modi_type": "grammer_agreement",
+        "ori_word": "undertake",
+        "modi_word": "undertakes"
+    },
+    {
+        "zh_sent": "阿玛丽没有把这件事告诉家人，直到她奶奶发现她的头发变短了。",
+        "en_ori_sent": "Amari didn't tell her family about the incident until after her grandmother noticed the length of her hair had changed.",
+        "en_modi_sent": "Amari did n't tells her family about the incident until after her grandmother noticed the length of her hair had changed.",
+        "modi_type": "grammer_agreement",
+        "ori_word": "tell",
+        "modi_word": "tells"
+    },
+    {
+        "zh_sent": "他们也承认，服役人员不愿主动寻求帮助，因为他们担心这会影响升职或安全检查。军方领导人表示，他们都必须更加刻苦努力，去解决那些被视为阻碍发展的问题。",
+        "en_ori_sent": "They also acknowledged that service members are reluctant to come forward and seek help, because they worry that it could affect promotions or security clearances. And military leaders said they must all work harder to address those perceived roadblocks.",
+        "en_modi_sent": "They also acknowledged that service members are reluctant to come forward and seek help, because they worry that it could affects promotions or security clearances. And military leaders said they must all work harder to address those perceived roadblocks.",
+        "modi_type": "grammer_agreement",
+        "ori_word": "affect",
+        "modi_word": "affects"
+    },
+    {
+        "zh_sent": "斯柯达为驾驶员提供语音数字助理",
+        "en_ori_sent": "Skoda to provide drivers with voice activated digital assistant",
+        "en_modi_sent": "Skoda to provide drivers voice with activated digital assistant",
+        "modi_type": "grammer_swap",
+        "ori_word": "voice",
+        "modi_word": "with"
+    },
+    {
+        "zh_sent": "据伊朗国家通讯社报道，伊朗港口和海事管理局证实：这艘名为斯坦纳·安普里奥的油轮已于上午 9 点离开阿巴斯港。",
+        "en_ori_sent": "Iranian Ports and Maritime Administration confirmed that the vessel, Stena Impero, left Bandar Abbas port at 9 a.m., the state-run IRNA reported.",
+        "en_modi_sent": "Iranian Ports and Maritime Administration confirmed that the vessel Impero Stena,, left Bandar Abbas port at 9 a.m., the state-run IRNA reported.",
+        "modi_type": "grammer_swap",
+        "ori_word": ",",
+        "modi_word": "Impero"
+    },
+    {
+        "zh_sent": "这家世界最大的咖啡公司在星期五的一份声明中表示，公司发现草甘膦残留量接近一些绿色咖啡豆产品中草甘膦残留最高限量。",
+        "en_ori_sent": "The world's largest coffee company said in a statement Friday that it had found glyphosate residues close to the maximum allowed in some deliveries of green coffee beans.",
+        "en_modi_sent": "The world 's largest coffee company said in a statement Friday that it had found of residues close to the maximum allowed in some deliveries glyphosate green coffee beans.",
+        "modi_type": "grammer_swap",
+        "ori_word": "glyphosate",
+        "modi_word": "of"
+    },
+    {
+        "zh_sent": "但这并没有阻止成千上万的人士对孟山都公司提起诉讼，他们声称因接触了农达导致他们或他们的亲人罹患癌症。",
+        "en_ori_sent": "But that has not stopped thousands of people from filing lawsuits against Monsanto alleging that exposure to Roundup caused them or their loved ones to develop cancer.",
+        "en_modi_sent": "But that have not stopped thousands of people from filing lawsuits against Monsanto alleging that exposure to Roundup caused them or their loved ones to develop cancer.",
+        "modi_type": "grammer_agreement",
+        "ori_word": "has",
+        "modi_word": "have"
+    },
+    {
+        "zh_sent": "皮克维尔的加兰·兰卡斯特告诉北卡罗莱纳教育彩票官员，当他在皮克维尔的威萨姆兄弟公司逗留时，他用自己的五组号码买了五张现金彩票，可在星期一晚上进行五次抽奖。",
+        "en_ori_sent": "Add Lancaster of Pikeville told North Carolina Education Lottery officials he used five sets of his own numbers to buy a Cash 5 ticket with five plays for Monday night's drawing when he stopped at Wissam & Brothers Inc. in Pikeville.",
+        "en_modi_sent": "Add Lancaster of Pikeville told North Carolina Education Lottery officials he used five sets of his own numbers to buy a Cash 5 ticket with five Brothers for Monday night 's drawing when he stopped at Wissam & plays Inc. in Pikeville.",
+        "modi_type": "grammer_swap",
+        "ori_word": "plays",
+        "modi_word": "Brothers"
+    },
+    {
+        "zh_sent": "天空新闻获悉，托管机构主席史蒂夫索·斯特正与几家公司就一项买断协议进行谈判，该协议将使托马斯·库克养老金计划的 1.4 万名的多数成员免于养老金支付的大幅减少。",
+        "en_ori_sent": "Sky News has learnt that Steve Southern, chair of the trustees, is holding talks with several parties about a buyout deal that would avoid most of Thomas Cook's 14,000 pension scheme members facing a steep cut to their payments.",
+        "en_modi_sent": "Sky News has learnt that Steve Southern, chair of the trustees, is holding talks with several parties members a buyout deal that would avoid most of Thomas Cook 's 14,000 pension scheme about facing a steep cut to their payments.",
+        "modi_type": "grammer_swap",
+        "ori_word": "members",
+        "modi_word": "about"
+    },
+    {
+        "zh_sent": "距离蜘蛛侠僵局的终结已过去一个多月，据报道，当时两家公司无法就之前的电影《英雄归来》和《英雄远征》的续集达成协议。",
+        "en_ori_sent": "The end to the Spidey standoff came more than a month after it was reported the two studios were unable to reach terms on a deal for a sequel to their previous films, \"Homecoming\" and \"Far From Home.\"",
+        "en_modi_sent": "The end to the Spidey standoff came more than a month after it was reported the two studios were unable to reach terms on a deal for\"sequel to their previous films,\"Homecoming\" and a Far From Home.\"",
+        "modi_type": "grammer_swap",
+        "ori_word": "``",
+        "modi_word": "a"
+    },
+    {
+        "zh_sent": "哈里斯县地方检察官金·奥格在一份声明中说：“我们感谢陪审员在过去几周里对案件中每一件证据的关注”。“毫无疑问，哈斯克尔精心策划并实施了屠杀斯塔全家的行动。”",
+        "en_ori_sent": "\"We are grateful for the jurors' rapt attention over the last many weeks to every piece of evidence in the case,\" Harris County District Attorney Kim Ogg said in a statement. \"There was never a reasonable doubt that Haskell meticulously planned and carried out the slaughter of the Stay family.\"",
+        "en_modi_sent": "the We are grateful for the jurors ' rapt attention over the last many weeks to every piece of evidence in\"case,\" Harris County District Attorney Kim Ogg said in a statement.\"There was never a reasonable doubt that Haskell meticulously planned and carried out the slaughter of the Stay family.\"",
+        "modi_type": "grammer_swap",
+        "ori_word": "``",
+        "modi_word": "the"
+    },
+    {
+        "zh_sent": "资深国会议员哈里特·哈曼和肯·克拉克均已被提名为领导联合政府的潜在人选，但苏格兰民族党的资深消息人士坚称必须是工党领袖才行。",
+        "en_ori_sent": "Veteran MPs Harriet Harman and Ken Clarke have both been named as potential figures to lead a unity government but a senior SNP source insisted it had to be the Labour leader.",
+        "en_modi_sent": "Veteran MPs Harriet Harman and Ken Clarke haves both been named as potential figures to lead a unity government but a senior SNP source insisted it had to be the Labour leader.",
+        "modi_type": "grammer_agreement",
+        "ori_word": "have",
+        "modi_word": "haves"
+    },
+    {
+        "zh_sent": "西班牙《国家报》的一篇报道称，西班牙私人安保公司涉嫌向美国中央情报局提供阿桑奇与其律师会面的音频和视频。",
+        "en_ori_sent": "A report in Spanish newspaper El Pais said the company, UC Global SL, allegedly handed over audio and video to the CIA of meetings Assange held with his lawyers.",
+        "en_modi_sent": "A UC in Spanish newspaper El Pais said the company, report Global SL, allegedly handed over audio and video to the CIA of meetings Assange held with his lawyers.",
+        "modi_type": "grammer_swap",
+        "ori_word": "report",
+        "modi_word": "UC"
+    },
+    {
+        "zh_sent": "消息人士说，这一行动符合莫迪总理在红堡向全国发表的讲话，当时莫迪曾表示，税务部门的一些害群之马可能滥用权力，骚扰纳税人，要么针对诚实的评估对象，要么对轻微或程序性违规行为采取过度行动。",
+        "en_ori_sent": "Sources said the action was in line with Prime Minister Narendra Modi's address to the nation from the ramparts of the Red Fort when he had said some black sheep in the tax administration may have misused their powers and harassed taxpayers, either by targeting honest assesses or taking excessive action for minor or procedural violations.",
+        "en_modi_sent": "Sources said the action was in line with Prime Minister Narendra Modi 's address to the nation from the ramparts of the Red Fort when he had said some black sheep in the tax administration may haves misused their powers and harassed taxpayers, either by targeting honest assesses or taking excessive action for minor or procedural violations.",
+        "modi_type": "grammer_agreement",
+        "ori_word": "have",
+        "modi_word": "haves"
+    },
+    {
+        "zh_sent": "在这位加州民主党人发表上述言论之前，一名不愿透露姓名的情报官员周四向美国情报机构监察长迈克尔·阿特金森提交了这份起诉书。阿特金森把它交给了国家情报总监约瑟夫·马奎尔。",
+        "en_ori_sent": "The California Democrat's words follow a release of the complaint Thursday, which was submitted by an unidentified intelligence official to Intelligence Community Inspector General Michael Atkinson. Atkinson turned it over to national intelligence director Joseph Maguire.",
+        "en_modi_sent": "The California Democrat 's words follows a release of the complaint Thursday, which was submitted by an unidentified intelligence official to Intelligence Community Inspector General Michael Atkinson. Atkinson turned it over to national intelligence director Joseph Maguire.",
+        "modi_type": "grammer_agreement",
+        "ori_word": "follow",
+        "modi_word": "follows"
+    },
+    {
+        "zh_sent": "哈里斯郡陪审团裁定，现年 39 岁的罗纳德·哈斯克尔于 2014 年 7 月杀害斯塔家庭 6 名成员的罪名成立：包括父母斯蒂芬·斯塔和凯蒂·斯塔，孩子 13 岁的布赖恩、 9 岁的埃米莉、7 岁的丽贝卡和 4 岁的扎克。",
+        "en_ori_sent": "A Harris County jury found Ronald Haskell, 39, guilty in the July 2014 killings of six members of the Stay family: parents Stephen Stay and Katie Stay, and children Bryan, 13, Emily, 9, Rebecca, 7 and Zach, 4.",
+        "en_modi_sent": "A Harris County jury found Ronald Haskell, 39, guilty in the July 2014 killings of six members of the Stay family: parents Stephen Stay and 13 Stay, and children Bryan, Katie, Emily, 9, Rebecca, 7 and Zach, 4.",
+        "modi_type": "grammer_swap",
+        "ori_word": "Katie",
+        "modi_word": "13"
+    },
+    {
+        "zh_sent": "金特罗对组织杀害多名人权活动家和社区领袖负有责任，该声明补充道。",
+        "en_ori_sent": "Quintero was responsible for the killings of human rights activists and community leaders, the statement added.",
+        "en_modi_sent": "Quintero human responsible for the killings of was rights activists and community leaders, the statement added.",
+        "modi_type": "grammer_swap",
+        "ori_word": "human",
+        "modi_word": "was"
+    },
+    {
+        "zh_sent": "这位公爵夫人和哈里王子目前正携爱子阿尔奇·哈里森·蒙巴顿-温莎进行为期 10 天的南非皇家之旅，本周早些时候，他们已参加一场青年招待会，并与奥巴马基金会领导人会面。",
+        "en_ori_sent": "The duchess and Prince Harry, now on a 10-day royal tour of South Africa with their baby son Archie Harrison Mountbatten-Windsor, attended a youth reception earlier this week and met Obama Foundation leaders.",
+        "en_modi_sent": "The duchess and Prince Harry, now on a 10-day royal tour reception South Africa with their baby son Archie Harrison Mountbatten-Windsor, attended a youth of earlier this week and met Obama Foundation leaders.",
+        "modi_type": "grammer_swap",
+        "ori_word": "of",
+        "modi_word": "reception"
+    },
+    {
+        "zh_sent": "使用方便",
+        "en_ori_sent": "Easy use",
+        "en_modi_sent": "use Easy",
+        "modi_type": "grammer_swap",
+        "ori_word": "use",
+        "modi_word": "Easy"
+    },
+    {
+        "zh_sent": "在 2014 年为家人举行的追悼会上，卡西迪感谢社会各界的支持，并表示父母、两个兄弟和两个姐妹“在天堂，总有一天能再见到他们，她感到很欣慰。”",
+        "en_ori_sent": "At a 2014 memorial for her family, Cassidy thanked the community for its support and said that she was comforted knowing her parents, two brothers and two sisters are \"in a much better place, and that I'll be able to see them again one day.\"",
+        "en_modi_sent": "At a 2014 memorial for her family, Cassidy thanked the community for its support and said that she was comforted knowing her parents, two brothers and two sisters are\"in a much better place, and that I 'll be able to sees them again one day.\"",
+        "modi_type": "grammer_agreement",
+        "ori_word": "see",
+        "modi_word": "sees"
+    },
+    {
+        "zh_sent": "据报道，为了登上头条新闻，他会戴上口罩，并在自己的鼻子上贴上胶带，以引发热议。",
+        "en_ori_sent": "To get front pages, he would reportedly don surgical masks and put tape on his nose to spark conversation.",
+        "en_modi_sent": "To get front pages, he would reportedly don surgical to and put tape on his nose masks spark conversation.",
+        "modi_type": "grammer_swap",
+        "ori_word": "masks",
+        "modi_word": "to"
+    },
+    {
+        "zh_sent": "一位消息人士称：“特里斯坦和德雷克是好朋友，在他计划追回卡戴珊的时候，他一直在询问德雷克的建议。",
+        "en_ori_sent": "A source said: \"Tristan is good pals with Drake and has been using him as a sounding board as he plots his return to the Kardashian fold.",
+        "en_modi_sent": "A source said:\"Tristan is good pals with Drake and has been using him as a sounding board as he plot his return to the Kardashian fold.",
+        "modi_type": "grammer_agreement",
+        "ori_word": "plots",
+        "modi_word": "plot"
+    },
+    {
+        "zh_sent": "“她们一直责备父亲放任这种事情发生，尤其是碧翠斯一直恳求安德鲁王子不要把她们的母亲当作被驱逐的人一样对待。”",
+        "en_ori_sent": "\"They are constantly berating their father for allowing it to happen and Beatrice in particular has been imploring Prince Andrew to see that their mother is not treated as an outcast.\"",
+        "en_modi_sent": "\"They are constantly berating their father for allowing it to happen and Beatrice in particular has been imploring Prince Andrew to see that their mother is outcast treated as an not.\"",
+        "modi_type": "grammer_swap",
+        "ori_word": "not",
+        "modi_word": "outcast"
+    },
+    {
+        "zh_sent": "但波罗申科期望特朗普政府如何在今年 3 月和 4 月举行的两轮乌克兰总统选举之前帮助他扭转颓势，目前尚不清楚。无论如何，他都受到了重击，惨败给了泽伦斯基，后者手下的官员很快成为特朗普团队着手打击拜登的新目标。",
+        "en_ori_sent": "How Mr. Poroshenko expected the Trump administration to help lift his sagging fortunes ahead of Ukraine's presidential election, held in two rounds in March and April this year, is unclear. He got trounced anyway, losing emphatically to Mr. Zelensky, whose own officials quickly became the Trump team's new targets in its drive to damage Mr. Biden.",
+        "en_modi_sent": "How Mr. Poroshenko expected the Trump administration to help lift his sagging fortunes ahead of Ukraine 's presidential election, held in two rounds in March and April new year, is unclear. He got trounced anyway, losing emphatically to Mr. Zelensky, whose own officials quickly became the Trump team 's this targets in its drive to damage Mr. Biden.",
+        "modi_type": "grammer_swap",
+        "ori_word": "this",
+        "modi_word": "new"
+    },
+    {
+        "zh_sent": "1 名中国维权人士在举牌要求中国领导人习近平下台以后被捕并遇难，多名维权人士呼吁彻查其真实死因。",
+        "en_ori_sent": "Human rights advocates are calling for an investigation into the death of a Chinese activist, arrested after holding up a placard calling for Chinese leader Xi Jinping to step down.",
+        "en_modi_sent": "Human rights advocates are calling for an investigation into the death of a Chinese activist, arrested after to up a placard calling for Chinese leader Xi Jinping holding step down.",
+        "modi_type": "grammer_swap",
+        "ori_word": "holding",
+        "modi_word": "to"
+    },
+    {
+        "zh_sent": "这只名叫斯特拉的宝宝于本月初在牛津郡的科茨沃尔德野生动物园出生，它是蒙蒂和鲁比所生的第一个雌性宝宝。",
+        "en_ori_sent": "Baby Stella was welcomed into the world at Cotswold Wildlife Park, Oxfordshire, earlier this month and is the first female born to parents Monty and Ruby.",
+        "en_modi_sent": "Baby to was welcomed into the world at Cotswold Wildlife Park, Oxfordshire, earlier this month and is the first female born Stella parents Monty and Ruby.",
+        "modi_type": "grammer_swap",
+        "ori_word": "Stella",
+        "modi_word": "to"
+    },
+    {
+        "zh_sent": "星期四，SBD Automotive 公司的高级联网汽车专家杰克·帕尔默通过电子邮件向 CNBC 频道发送了一份声明，他在声明中说：“语音是汽车理想的交互工具。”",
+        "en_ori_sent": "\"Voice is the ideal interaction tool in the vehicle,\" Jack Palmer, a senior connected car specialist at SBD Automotive, said in a statement sent to CNBC via email on Thursday.",
+        "en_modi_sent": "\"Voice is the ideal interaction tool in the vehicle,\" Jack Palmer, a senior connected car specialist said SBD Automotive, at in a statement sent to CNBC via email on Thursday.",
+        "modi_type": "grammer_swap",
+        "ori_word": "said",
+        "modi_word": "at"
+    },
+    {
+        "zh_sent": "“游客将赞叹......我们分享的珍宝——五个联合国教科文组织世界遗产地、充满活力的当地文化和令人叹为观止的自然美景。”",
+        "en_ori_sent": "\"Visitors will be surprised... by the treasures we have to share -- five UNESCO World Heritage Sites, a vibrant local culture and breathtaking natural beauty.\"",
+        "en_modi_sent": "\"Visitors will be surprised ... by the treasures breathtaking have to share -- five UNESCO World Heritage Sites, a vibrant local culture and we natural beauty.\"",
+        "modi_type": "grammer_swap",
+        "ori_word": "we",
+        "modi_word": "breathtaking"
+    },
+    {
+        "zh_sent": "首先，让我们看看较为悲观的一面。德·格罗德确实在精神病发作期间捅死了 5 个人。这是一次不可预测的暴力袭击。他患有精神分裂症，这就是为什么他被裁定不负刑事责任，但此后一直在看精神病医生和服用药物。他的精神科医生桑托克·雷曾在审查委员会面前表示，“如果马修·德·格罗德再次犯法，那将后果严重。” 尽管他感觉有进步，但仍有再次攻击他人的风险。但这个理由足以令人继续害怕吗？这个理由足够把德格罗德关起来吗？",
+        "en_ori_sent": "First, let's examine the more pessimistic side. De Grood did stab and kill five people during a psychotic break. It was a violent and unpredictable attack. He suffers from schizophrenia, which is why he was found not criminally responsible, but has since been seeing a psychiatrist and taking his medication. His psychiatrist, Dr. Santoch Rai, has said in front of the review board that \"if Matthew de Grood were to commit another offence, it would be severe.\" Despite his perceived improvement, there is still risk of re-offense. But is this reason enough to remain afraid? Is it enough to keep de Grood locked up?",
+        "en_modi_sent": "First, let 's examine the more pessimistic side. De Grood did stab and kill five people during a psychotic break. It was a violent and unpredictable attack. He suffers from schizophrenia, which is why criminally was found not he responsible, but has since been seeing a psychiatrist and taking his medication. His psychiatrist, Dr. Santoch Rai, has said in front of the review board that\"if Matthew de Grood were to commit another offence, it would be severe.\" Despite his perceived improvement, there is still risk of re-offense. But is this reason enough to remain afraid? Is it enough to keep de Grood locked up?",
+        "modi_type": "grammer_swap",
+        "ori_word": "criminally",
+        "modi_word": "he"
+    },
+    {
+        "zh_sent": "科尔宾先生呼吁保守党叛徒和反对党议员在八月支持他领导临时政府，但此举遭到了抵制，尤其是来自自由民主党领袖乔·斯温森的抵制。",
+        "en_ori_sent": "Mr Corbyn called on rebel Tories and opposition MPs to back him to lead a temporary administration in August - but the move was met with resistance, particularly from the Liberal Democrat leader Jo Swinson.",
+        "en_modi_sent": "leader Corbyn called on rebel Tories and opposition MPs to back him to lead a temporary administration in August - but the move was met with resistance, particularly from the Liberal Democrat Mr Jo Swinson.",
+        "modi_type": "grammer_swap",
+        "ori_word": "leader",
+        "modi_word": "Mr"
+    },
+    {
+        "zh_sent": "而他的律师梅根·基弗说，他决定参加测谎，从而打消有关他本人就是发推者的猜测。根据 WWL-TV 的报道，丹拉普还未提起诉讼，但他在声明中表示很快会着手进行。",
+        "en_ori_sent": "However, he decided to take a polygraph test to dispel any speculation that he was the one who sent the tweet to himself, his lawyer Megan Kiefer, said. A lawsuit has not yet been filed on Dunlap's behalf, but he said in his statement that one would be coming, according to WWL-TV.",
+        "en_modi_sent": "However, he decided to take a polygraph test to dispel any speculation that he was the one who sent the tweet to himself, his lawyer Megan Kiefer, said. A lawsuit have not yet been filed on Dunlap 's behalf, but he said in his statement that one would be coming, according to WWL-TV.",
+        "modi_type": "grammer_agreement",
+        "ori_word": "has",
+        "modi_word": "have"
+    },
+    {
+        "zh_sent": "政府将安排大约 100,000 名安保人员守卫投票站，以应对塔利班势力的威胁。",
+        "en_ori_sent": "About 100,000 security personnel are to guard polling stations in the wake of Taliban threats.",
+        "en_modi_sent": "About 100,000 security personnel are to guards polling stations in the wake of Taliban threats.",
+        "modi_type": "grammer_agreement",
+        "ori_word": "guard",
+        "modi_word": "guards"
+    },
+    {
+        "zh_sent": "油污在巴西东北部沿海蔓延，总长度超过 1,500 公里（932 英里），对当地野生动物造成了影响，并且污染了该国多处热门旅游胜地中风景如画的海滩，包括塞阿拉州的福特诺海滩，以及阿拉戈斯州的马拉戈日海滩。",
+        "en_ori_sent": "The spill spans over 1,500 kilometers (932 miles) of Brazil's northeast coast, affecting wildlife and polluting some of the postcard beaches in one of the nation's top touristic destinations, such as Praia do Futuro, in the state of Ceara, and Maragogi, in Alagoas state.",
+        "en_modi_sent": "The Maragogi spans over 1,500 kilometers ( 932 miles ) of Brazil 's northeast coast, affecting wildlife and polluting some of the postcard beaches in one of the nation 's top touristic destinations, such as Praia do Futuro, in the state of Ceara, and spill, in Alagoas state.",
+        "modi_type": "grammer_swap",
+        "ori_word": "Maragogi",
+        "modi_word": "spill"
+    },
+    {
+        "zh_sent": "警 方 9 月 13 日在该监狱拘捕一名四十岁左右的男子，该男子涉嫌不当公职的阴谋行为。这名男子来自伦敦西南部，在政府设施服务有限公司工作，该公司为英国南部 52 所监狱提供维护服务。",
+        "en_ori_sent": "Police arrested a 40-year-old man at the jail on suspicion of conspiracy to commit misconduct in a public office on September 13. The man, from South West London, was working for the Government Facility Services Ltd, which maintains 52 jails across the south of the country.",
+        "en_modi_sent": "Police arrested West 40-year-old man at the jail on suspicion of conspiracy to commit misconduct in a public office on September 13. The man, from South a London, was working for the Government Facility Services Ltd, which maintains 52 jails across the south of the country.",
+        "modi_type": "grammer_swap",
+        "ori_word": "West",
+        "modi_word": "a"
+    },
+    {
+        "zh_sent": "当参议员伊丽莎白·沃伦（马萨诸塞州民主党人） 8 月份从两个经营柠檬汽水摊的女孩那里购买饮料时，她可能还没有意识到，她购买的 10 美元将捐赠给一家反堕胎慈善机构。",
+        "en_ori_sent": "When Sen. Elizabeth Warren (D., Mass.) purchased drinks from two girls running a lemonade stand in August, she may not have been aware that her $10 purchase would be donated to a pro-life charity.",
+        "en_modi_sent": "When Sen. Elizabeth Warren ( D., Mass. ) purchased drinks from two girls running a lemonade in stand August, she may not have been aware that her $ 10 purchase would be donated to a pro-life charity.",
+        "modi_type": "grammer_swap",
+        "ori_word": "in",
+        "modi_word": "stand"
+    },
+    {
+        "zh_sent": "列举了学院将要开展的其他活动，查特吉先生说，将出版一本迄今不为人知的维迪亚萨加著作集。",
+        "en_ori_sent": "Listing other activities to be taken up by the academy, Mr Chatterjee said that a collection of hitherto unknown writings by Vidyasagar will be published.",
+        "en_modi_sent": "Listing other activities to bes taken up by the academy, Mr Chatterjee said that a collection of hitherto unknown writings by Vidyasagar will bes published.",
+        "modi_type": "grammer_agreement",
+        "ori_word": "be",
+        "modi_word": "bes"
+    },
+    {
+        "zh_sent": "星期日，抗议者还将在香港和全球许多城市组织“反极权主义”集会，反对他们所谴责的中国暴政。",
+        "en_ori_sent": "Protesters are also organizing \"anti-totalitarianism\" rallies in Hong Kong and many cities worldwide on Sunday against what they denounced as China's tyranny.",
+        "en_modi_sent": "Protesters are also organizing\"anti-totalitarianism\" rallies in Hong Kong and many cities worldwides on Sunday against what they denounced as China 's tyranny.",
+        "modi_type": "grammer_agreement",
+        "ori_word": "worldwide",
+        "modi_word": "worldwides"
+    },
+    {
+        "zh_sent": "1997 年 1 月 15 日，威尔士王妃戴安娜身穿防护背心和面罩，在安哥拉万博省走访了一片被光环信托慈善组织清理过的雷区。",
+        "en_ori_sent": "Wearing protective body armor and a visor, Diana, Princess of Wales, visits a minefield being cleared by the charity Halo in Huambo, Angola, January 15, 1997.",
+        "en_modi_sent": "Wearing protective body armor and a visor, Diana, Princess of Wales, visit a minefield being cleared by the charity Halo in Huambo, Angola, January 15, 1997.",
+        "modi_type": "grammer_agreement",
+        "ori_word": "visits",
+        "modi_word": "visit"
+    },
+    {
+        "zh_sent": "草甘膦会致癌吗？",
+        "en_ori_sent": "Does glyphosate cause cancer?",
+        "en_modi_sent": "Does glyphosate cause cancer!",
+        "modi_type": "grammer_punc",
+        "ori_word": "?",
+        "modi_word": "!"
+    },
+    {
+        "zh_sent": "维奥拉·戴维斯对扮演米歇尔·奥巴马感到有些压力。",
+        "en_ori_sent": "Viola Davis is feeling the pressure of playing Michelle Obama.",
+        "en_modi_sent": "Viola Davis Michelle feeling the pressure of playing is Obama.",
+        "modi_type": "grammer_swap",
+        "ori_word": "Michelle",
+        "modi_word": "is"
+    },
+    {
+        "zh_sent": "“我们两人都有儿子，并且我们要记住我们不仅是女孩的榜样，而且是男孩的榜样，不仅是我们的儿子，而且还包括大众。”",
+        "en_ori_sent": "'We both have sons, and we were bearing in mind that we are not just role models for girls but boys - and not just our sons, but generally in public too.'",
+        "en_modi_sent": "'We both have sons, and we were bearing in mind that we are not just role models for girls but just - and not boys our sons, but generally in public too. '",
+        "modi_type": "grammer_swap",
+        "ori_word": "boys",
+        "modi_word": "just"
+    },
+    {
+        "zh_sent": "星期四是彻底消除核武器国际日，但消除核武器这一目标似乎越来越难以实现。",
+        "en_ori_sent": "Thursday marks the International Day for the Total Elimination of Nuclear Weapons, but it's a goal that looks increasingly less likely.",
+        "en_modi_sent": "Thursday mark the International Day for the Total Elimination of Nuclear Weapons, but it 's a goal that looks increasingly less likely.",
+        "modi_type": "grammer_agreement",
+        "ori_word": "marks",
+        "modi_word": "mark"
+    },
+    {
+        "zh_sent": "几何图形也可以用于新的建筑设计和建筑施工。",
+        "en_ori_sent": "The geometries could be also used in new architectural designs in buildings and construction.",
+        "en_modi_sent": "The used could be also geometries in new architectural designs in buildings and construction.",
+        "modi_type": "grammer_swap",
+        "ori_word": "geometries",
+        "modi_word": "used"
+    },
+    {
+        "zh_sent": "政府表示，在应对高企的青年失业率之际，旅游业有望创造多达 100 万个旅游业就业岗位。",
+        "en_ori_sent": "The sector is expected to create up to one million tourism jobs, the government says, as it battles high youth unemployment.",
+        "en_modi_sent": "The sector is expected to creates up to one million tourism jobs, the government says, as it battles high youth unemployment.",
+        "modi_type": "grammer_agreement",
+        "ori_word": "create",
+        "modi_word": "creates"
+    },
+    {
+        "zh_sent": "据科罗拉多州立大学的气象学家菲利普·克劳斯巴赫称，自 8 月 21 日以来，西半球（包括大西洋和东太平洋盆地）已经产生了 16 个命名风暴。",
+        "en_ori_sent": "According to Colorado State University Meteorologist Philip Klotzbach, the Western Hemisphere, which encompasses the Atlantic and eastern Pacific basins, has generated 16 named storms since Aug. 21.",
+        "en_modi_sent": "According to Colorado State University Meteorologist Philip Klotzbach, the Western Hemisphere, which encompasses the has and eastern Pacific basins, Atlantic generated 16 named storms since Aug. 21.",
+        "modi_type": "grammer_swap",
+        "ori_word": "has",
+        "modi_word": "Atlantic"
+    },
+    {
+        "zh_sent": "与此同时，有消息称，与雾化产品相关的疾病又夺去了两条人命，死亡人数达到 11 人。",
+        "en_ori_sent": "It comes as it emerged a vaping-related illness had claimed two more lives, bringing the total number of fatalities to 11.",
+        "en_modi_sent": "It comes as it emerged a vaping-related illness had claimed two more lives, bringing the total of number fatalities to 11.",
+        "modi_type": "grammer_swap",
+        "ori_word": "number",
+        "modi_word": "of"
+    },
+    {
+        "zh_sent": "“欧洲烟草产品指令限制电子香烟的广告，并确保电子液体不能含有已知有害成分。",
+        "en_ori_sent": "\"The European tobacco products directive restricts the advertising of e-cigarettes and ensures that e-liquids cannot contain ingredients that are known to be harmful.",
+        "en_modi_sent": "\"The European tobacco products known restricts the advertising of e-cigarettes and ensures that e-liquids can not contain ingredients that are directive to be harmful.",
+        "modi_type": "grammer_swap",
+        "ori_word": "known",
+        "modi_word": "directive"
+    },
+    {
+        "zh_sent": "波罗申科渴望赢得特朗普总统的支持，前者越来越担忧政治对手会阻挠自己连任，这为朱利安尼肃清了道路，他可以向乌克兰总检察长尤里·卢岑科（后来被解职）施压，要求调查乔·拜登和他的儿子，为特朗普连任助一臂之力。",
+        "en_ori_sent": "Mr. Poroshenko's eagerness to win over Mr. Trump and his growing fears that political rivals would thwart his re-election opened the way for Mr. Giuliani to press Ukraine's prosecutor general, Yuri Lutsenko, who has since been fired, to help Mr. Trump's own re-election by investigating Joe Biden and his son.",
+        "en_modi_sent": "Mr. Poroshenko 's eagerness to win over Mr. Trump and his growing fears that political rivals would thwart his re-election opened the way for Mr. Giuliani to press Ukraine 's prosecutor general, Yuri Lutsenko, who has since been fired, to help Mr. Trump 's own re-election by investigating Joe Biden and his son.",
+        "modi_type": "grammer_agreement",
+        "ori_word": "press",
+        "modi_word": "press"
+    },
+    {
+        "zh_sent": "据报道，现年 38 岁的萨塞克斯公爵夫人本周早些时候在与丈夫哈里王子访问南非期间，在开普敦伍德斯托克交易所的一次激励女性企业家的活动中发表了上述言论。",
+        "en_ori_sent": "The Duchess of Sussex, 38, reportedly made the remarks during an event for inspiring female entrepreneurs at Woodstock Exchange in Cape Town earlier this week during her tour of South Africa with husband Prince Harry.",
+        "en_modi_sent": "The Duchess of Sussex, 38, reportedly made the remarks during an event tour inspiring female entrepreneurs at Woodstock Exchange in Cape Town earlier this week during her for of South Africa with husband Prince Harry.",
+        "modi_type": "grammer_swap",
+        "ori_word": "tour",
+        "modi_word": "for"
+    },
+    {
+        "zh_sent": "国家飓风中心时间晚上 11 点，飓风眼位于亚速尔群岛西南约 1660 英里处。东部夏令时间更新。风暴以每小时 14 英里的速度向西北偏北方向移动，最大持续风速为每小时 145 英里。",
+        "en_ori_sent": "The eye of the major hurricane was about 1,660 miles southwest of the Azores in the NHC's 11 p.m. EDT update. The storm was moving north-northwest at 14 mph with 145 mph maximum sustained winds.",
+        "en_modi_sent": "The eye of the major about was hurricane 1,660 miles southwest of the Azores in the NHC 's 11 p.m. EDT update. The storm was moving north-northwest at 14 mph with 145 mph maximum sustained winds.",
+        "modi_type": "grammer_swap",
+        "ori_word": "hurricane",
+        "modi_word": "about"
+    },
+    {
+        "zh_sent": "房屋被淹，人们在被齐膝深洪水淹没的街上涉水前行，这通常是只有在季风最盛的时候才能看到的景象。",
+        "en_ori_sent": "Homes were flooded and people waded through streets with water up to their knees in scenes normally seen only at the height of the monsoon.",
+        "en_modi_sent": "Homes were flooded and people waded through streets with water up to their knees in scenes normally seen only of the height at the monsoon.",
+        "modi_type": "grammer_swap",
+        "ori_word": "of",
+        "modi_word": "at"
+    },
+    {
+        "zh_sent": "星期四，还有一名孟菲斯市的妇产科医生为该州作证，他加入了一个极具争议的网络组织，该组织试图阻断堕胎药效。英国博士指出，通过这项工作他“亲身接触了改变堕胎主意的女性”。",
+        "en_ori_sent": "Thursday also included testimony for the state from a Memphis obstetrician and gynecologist who participates in a controversial network that attempts to halt the effects of abortion-inducing medication. Dr. Michael Podraza said that through that work he has \"personal experience with women who have changed their minds about an abortion.\"",
+        "en_modi_sent": "Thursday gynecologist included testimony for the state from a Memphis obstetrician and also who participates in a controversial network that attempts to halt the effects of abortion-inducing medication. Dr. Michael Podraza said that through that work he has\"personal experience with women who have changed their minds about an abortion.\"",
+        "modi_type": "grammer_swap",
+        "ori_word": "also",
+        "modi_word": "gynecologist"
+    },
+    {
+        "zh_sent": "卡西迪受伤后一直装死，直到哈斯克尔离开，并能向警方指认他。她告诉警察，他正计划开车去她祖父母家杀死他们。但警方追查到哈斯克尔的行踪，经过 20 分钟的警方追捕和 3 小时的对峙，他被捕。",
+        "en_ori_sent": "Cassidy, who was wounded, played dead until Haskell left, and was able to identify him to police. She told officials he was planning to drive to her grandparents' home and kill them. But police tracked down Haskell, and he was arrested after a 20-minute police chase and a three-hour standoff.",
+        "en_modi_sent": "Cassidy, who was wounded, played dead until Haskell left, and was able to identify him to police. She told officials he was planning to drive to her grandparents three-hour home and kill them. But police tracked down Haskell, and he was arrested after a 20-minute police chase and a ' standoff.",
+        "modi_type": "grammer_swap",
+        "ori_word": "'",
+        "modi_word": "three-hour"
+    },
+    {
+        "zh_sent": "9 月 14 日，全球最大的原油加工厂和油田发生罢工，迫使沙特关闭了一半的生产业务。因此次无人机袭击事件，原油价格发生了数十年来最大幅度的飙升，并再次引发人们对中东地区爆发冲突的担忧。尽管各国广泛认为德黑兰应该为此次袭击事件负责，但伊朗方面始终坚称并未参与其中。",
+        "en_ori_sent": "The Sept. 14 strikes on the world's largest crude-processing plant and oil field forced Saudi Arabia to shut down half of its production operations. The drone attacks triggered the largest spike in crude prices in decades and renewed concerns of a budding conflict in the Middle East. While Tehran has been widely blamed for the attacks, it maintains that it was not involved.",
+        "en_modi_sent": "The Sept. 14 strikes on the world 's largest crude-processing plant and oil field Arabia Saudi forced to shut down half of its production operations. The drone attacks triggered the largest spike in crude prices in decades and renewed concerns of a budding conflict in the Middle East. While Tehran has been widely blamed for the attacks, it maintains that it was not involved.",
+        "modi_type": "grammer_swap",
+        "ori_word": "forced",
+        "modi_word": "Arabia"
+    },
+    {
+        "zh_sent": "去年 10 月，在尤吉尼公主和杰克·布鲁克斯班克的婚礼上，菲利普和莎拉被拍到 26 年来第一次在一起合影。",
+        "en_ori_sent": "Philip and Sarah were pictured for the first time together in 26 years at Princess Eugenie's wedding to Jack Brooksbank last October.",
+        "en_modi_sent": "Philip pictured Sarah were and for the first time together in 26 years at Princess Eugenie 's wedding to Jack Brooksbank last October.",
+        "modi_type": "grammer_swap",
+        "ori_word": "pictured",
+        "modi_word": "and"
+    },
+    {
+        "zh_sent": "继除草剂恐慌之后雀巢加强咖啡豆控制",
+        "en_ori_sent": "Nestle tightens controls on coffee beans after weedkiller scare",
+        "en_modi_sent": "Nestle tightens controls beans coffee on after weedkiller scare",
+        "modi_type": "grammer_swap",
+        "ori_word": "on",
+        "modi_word": "beans"
+    },
+    {
+        "zh_sent": "佩洛西于 3 月 13 日提出《平权法案》。众议院于 5 月通过立法。法案尚未被提交到参议院。",
+        "en_ori_sent": "Pelosi introduced the Equality Act on March 13. The House passed the legislation in May. It has not yet been brought to the Senate floor.",
+        "en_modi_sent": "Pelosi introduced the Equality Act on March 13. The House passed the legislation in May. It has not yet been brought to the floor Senate.",
+        "modi_type": "grammer_swap",
+        "ori_word": "floor",
+        "modi_word": "Senate"
+    },
+    {
+        "zh_sent": "威廉姆斯正在角逐第八个温网冠军头衔，届时她将迎来第 24 个大满贯。在星期四的单打半决赛中，她将与捷克选手巴博拉·斯特里科娃对阵。",
+        "en_ori_sent": "Williams is after her eighth Wimbledon title, which would be her 24th grand slam victory. She is advancing to the singles semifinals on Thursday against Czech player Barbora Strýcová.",
+        "en_modi_sent": "against is after her eighth Wimbledon title, which would be her 24th grand slam victory. She is advancing to the singles semifinals on Thursday Williams Czech player Barbora Strýcová.",
+        "modi_type": "grammer_swap",
+        "ori_word": "against",
+        "modi_word": "Williams"
+    },
+    {
+        "zh_sent": "在与女性科技创办人对话中，梅根大力倡导赋能年轻女性和女孩，表示希望也赋能年轻男性。",
+        "en_ori_sent": "During a conversation with the female tech founders Meghan, who has campaigned vigorously for the empowerment of young women and girls, said she hopes to do the same for young men.",
+        "en_modi_sent": "During a conversation with the empowerment tech founders Meghan, who has campaigned vigorously for the female of young women and girls, said she hopes to do the same for young men.",
+        "modi_type": "grammer_swap",
+        "ori_word": "female",
+        "modi_word": "empowerment"
+    },
+    {
+        "zh_sent": "年仅 16 岁，格蕾塔·通贝里就确立了自己在气候变化问题上全球代言人的地位。但 27 年前，早在社交媒体流行之前，另一个女孩就已经在世界舞台上斥责联合国领导人了。",
+        "en_ori_sent": "Greta Thunberg has established herself as the planet's spokeswoman on climate change at the tender age of 16. But long before social media, another teenager was scolding UN leaders on the world stage 27 years ago.",
+        "en_modi_sent": "Greta Thunberg have established herself as the planet 's spokeswoman on climate change at the tender age of 16. But long before social media, another teenager was scolding UN leaders on the world stage 27 years ago.",
+        "modi_type": "grammer_agreement",
+        "ori_word": "has",
+        "modi_word": "have"
+    },
+    {
+        "zh_sent": "如果没有改进，则内政大臣可以介入以解决这个问题。",
+        "en_ori_sent": "The home secretary could then step in to tackle the problem if no progress is made.",
+        "en_modi_sent": "The home secretary could then step in to tackle the problem if made progress is no.",
+        "modi_type": "grammer_swap",
+        "ori_word": "made",
+        "modi_word": "no"
+    },
+    {
+        "zh_sent": "美国联邦航空局表示，全能国际航空一架飞机在宣布紧急情况后，安全降落在巴尔的摩华盛顿国际机场。",
+        "en_ori_sent": "The Federal Aviation Administration says an Omni Air International jet landed safely at Baltimore Washington International Airport after declaring an emergency.",
+        "en_modi_sent": "The Federal unitary Administration says an Omni Air International jet landed safely at Baltimore Washington International Airport after declaring an emergency.",
+        "modi_type": "semantic_substitution",
+        "ori_word": "Aviation",
+        "modi_word": "unitary"
+    },
+    {
+        "zh_sent": "众议院议长南希·佩洛西指责美国司法部长威廉·巴尔周五在特朗普总统与乌克兰领导人的有争议的电话中“无赖地”保护了总统，这也引发了弹劾调查。",
+        "en_ori_sent": "House Speaker Nancy Pelosi accused U.S. Attorney General William Barr Friday of going \"rogue\" to protect President Donald Trump over his controversial phone call with Ukraine's leader, which has led to an impeachment inquiry.",
+        "en_modi_sent": "House Speaker Nancy Pelosi accused U.S. Attorney General William Barr Friday of going\"rogue\" to protect iconographical President Donald Trump over his controversial phone call with Ukraine 's leader, which has led to an impeachment inquiry.",
+        "modi_type": "semantic_addition",
+        "ori_word": "iconographical",
+        "modi_word": "iconographical"
+    },
+    {
+        "zh_sent": "《平权法案》将在信贷、教育、就业、住房、联邦财政援助、陪审服务和公共设施等方面向性少数群体个人提供非歧视性保护。",
+        "en_ori_sent": "The Equality Act would extend nondiscrimination protections to LGBTQ individuals in credit, education, employment, housing, federal financial assistance, jury service and public accommodations.",
+        "en_modi_sent": "The Equality Act would extend nondiscrimination protections to LGBTQ individuals in credit, education, employment, housing, federal financial assistance, jury service and public accommodations proo.",
+        "modi_type": "semantic_addition",
+        "ori_word": "proo",
+        "modi_word": "proo"
+    },
+    {
+        "zh_sent": "为什么需要重新分类疱疹病毒和寨卡病毒：生物技术的影响",
+        "en_ori_sent": "Why viruses like Herpes and Zika will need to be reclassified: Biotech impact",
+        "en_modi_sent": "dolichotmema Why viruses like Herpes and Zika will need to be reclassified: Biotech impact",
+        "modi_type": "semantic_addition",
+        "ori_word": "dolichotmema",
+        "modi_word": "dolichotmema"
+    },
+    {
+        "zh_sent": "38 岁的王美余今年七月曾在湖南省公安厅门外举牌请愿，要求习近平和中国总理李克强下台，并在中国境内实行普选制度。警方随后指控其“涉嫌寻衅滋事”，此项罪名定义含糊，许多持不同政见者曾因此入狱。",
+        "en_ori_sent": "Wang Meiyu, 38, was detained in July after he stood outside the Hunan provincial police department holding a sign that called on Xi and Chinese premier Li Keqiang to resign and implement universal suffrage in China. He was later charged with \"picking quarrels and provoking trouble,\" a vague offence often given to dissidents.",
+        "en_modi_sent": "Wang Meiyu, 38, was detained in July after he stood outside the Hunan provincial police department holding a sign that called on Xi and Chinese premier Li Keqiang to resign and implement universal suffrage in China. He was later charged with\"picking quarrels and provoking trouble,\" a vague offence often given to dissidents. stachys",
+        "modi_type": "semantic_addition",
+        "ori_word": "stachys",
+        "modi_word": "stachys"
+    },
+    {
+        "zh_sent": "在斯巴鲁望远镜绘制的宇宙地图上，团队发现了一个疑似原星团星系 z66OD，该星系的密度是那个时代正常星系的 15 倍。随后，团队利用凯克天文台和北双子座望远镜进行了后续的光谱观测，确认了这 12 个星系存于 130 亿年前，是迄今为止已知的最古老的原星系团。",
+        "en_ori_sent": "In the map of the Universe made by the Subaru Telescope, the team discovered a protocluster candidate, z66OD, where galaxies are 15 times more concentrated than normal for that era. The team then conducted follow-up spectroscopic observations using the W.M. Keck Observatory and Gemini North telescope, and confirmed 12 galaxies which existed 13.0 billion years ago, making it the earliest protocluster known to date.",
+        "en_modi_sent": "In the map of the Universe made by the Subaru Telescope, the team discovered a protocluster candidate, z66OD, where galaxies are 15 times more concentrated than normal for that era. The team then conducted follow-up spectroscopic observations using the W.M. Keck Observatory and Gemini North telescope, fruitgrowing and confirmed 12 galaxies which existed 13.0 billion years ago, making it the earliest protocluster known to date.",
+        "modi_type": "semantic_addition",
+        "ori_word": "fruitgrowing",
+        "modi_word": "fruitgrowing"
+    },
+    {
+        "zh_sent": "从 6 月份开始，年轻人主要抗议引渡法案，政府现在已经同意撤回该法案。但自那以来，该抗议活动吸引了更多的参与者，滚雪球般演变为一场更大的反对中国政府的运动，反对抗议者所说的北京方面正在悄悄侵扰香港的自治权；香港曾是英国的殖民地，其主权 1997 年回归中国，当时中国政府承诺对香港实行自治。",
+        "en_ori_sent": "Young people have largely led the protests that started in June over an extradition bill that the government has now agreed to withdraw. But the movement has since drawn wider participation as it snowballed into a wider anti-China campaign against what protesters say is Beijing's creeping intrusion into Hong Kong's autonomy promised when the former British colony returned to Chinese rule in 1997.",
+        "en_modi_sent": "Young people have largely led the protests that started in June over an extradition bill that the government has now agreed to withdraw. But the movement has since drawn wider participation as it snowballed into a wider anti-China campaign against what protesters say is Beijing 's creeping intrusion into Hong Kong 's autonomy promised when the former British colony returned divertingly to Chinese rule in 1997.",
+        "modi_type": "semantic_addition",
+        "ori_word": "divertingly",
+        "modi_word": "divertingly"
+    },
+    {
+        "zh_sent": "她跟主持人坎摩尔说道：“我不在乎我这辈子已取得的成就，我得过一次艾美奖、一次奥斯卡奖、两次托尼奖，但如果我这次搞砸了，那将是我一生中的决定性时刻。”",
+        "en_ori_sent": "\"I don't care what else I've done in my life ― I won an Emmy, I won an Oscar, two Tonys ― but if I mess this up, this'll be the defining moment in my life,\" she told host Kimmel.",
+        "en_modi_sent": "\"I do n't care what else I 've done in my life ― I won an Emmy, I won an Oscar, two Tonys ― but if I mess this up, this 'll be the defining moment in my life,\" she told parasite Kimmel.",
+        "modi_type": "semantic_substitution",
+        "ori_word": "host",
+        "modi_word": "parasite"
+    },
+    {
+        "zh_sent": "然而，28 岁的特里斯坦拒绝轻易放弃 -在他前女友的最新自拍上留下了令人尴尬的溢美之词。",
+        "en_ori_sent": "However, 28-year-old Tristan is refusing to give up without a fight - leaving a cringeworthy compliment on his ex's latest selfie.",
+        "en_modi_sent": "However, 28-year-old Tristan is refusing to give up without a fight - leaving a cringeworthy neologically compliment on his ex 's latest selfie.",
+        "modi_type": "semantic_addition",
+        "ori_word": "neologically",
+        "modi_word": "neologically"
+    },
+    {
+        "zh_sent": "2019 年 4 月 3 日，在美国华盛顿国会山，联邦紧急事务管理署代理署长彼得·盖纳面带微笑，在参议院拨款委员会国土安全小组委员会举行的关于 2020 财年该署预算请求的听证会上作证。",
+        "en_ori_sent": "Federal Emergency Management Agency (FEMA) Acting Administrator Peter Gaynor smiles as he testifies before a Senate Appropriations Homeland Security Subcommittee hearing on FEMA's FY2020 budget request on Capitol Hill in Washington, U.S., April 3, 2019.",
+        "en_modi_sent": "Federal Emergency Management Agency ( FEMA ) Acting unitary Peter Gaynor smiles as he testifies before a Senate Appropriations Homeland Security Subcommittee hearing on FEMA 's FY2020 budget request on Capitol Hill in Washington, U.S., April 3, 2019.",
+        "modi_type": "semantic_substitution",
+        "ori_word": "Administrator",
+        "modi_word": "unitary"
+    },
+    {
+        "zh_sent": "鲁比在此之前曾产下两个雄性幼崽，分别是 2015 年的伊恩和 2017 年的艾伦。艾伦还留在公园，而伊恩则在意大利的都灵动物园",
+        "en_ori_sent": "Ruby has had two boys before, Ian in 2015 and Alan in 2017. Alan is still at the park whilst Ian is in Torino Zoo in Italy",
+        "en_modi_sent": "Ruby has had two boys before, Ian in 2015 and Alan in 2017. Alan still at the park whilst Ian is in Torino Zoo in Italy",
+        "modi_type": "semantic_omission",
+        "ori_word": "Alan",
+        "modi_word": "still"
+    },
+    {
+        "zh_sent": "鉴于美国的死亡率，苏格兰禁止雾化产品和电子烟广告",
+        "en_ori_sent": "US deaths could result in Scottish ban on vaping and e-cigarette ads",
+        "en_modi_sent": "US deaths stoop could result in Scottish ban on vaping and e-cigarette ads",
+        "modi_type": "semantic_addition",
+        "ori_word": "stoop",
+        "modi_word": "stoop"
+    },
+    {
+        "zh_sent": "谷歌推出其 21 岁周年庆涂鸦：你所不知的故事",
+        "en_ori_sent": "Google Marks Its 21st Birthday With a Doodle: All You Need to Know",
+        "en_modi_sent": "Google Marks Its 21st Birthday With a: All You Need to Know",
+        "modi_type": "semantic_omission",
+        "ori_word": "a",
+        "modi_word": ":"
+    },
+    {
+        "zh_sent": "这颗名为 GJ 3512 的恒星质量约为太阳的 12%，而围绕其运行的行星的质量几乎是木星（太阳系最大的行星）的一半。",
+        "en_ori_sent": "The star, called GJ 3512, is about 12% the size of our sun, while the planet that orbits it has a mass of at least about half of Jupiter, our solar system's largest planet.",
+        "en_modi_sent": "The star, called GJ scaliness 3512, is about 12 % the size of our sun, while the planet that orbits it has a mass of at least about half of Jupiter, our solar system 's largest planet.",
+        "modi_type": "semantic_addition",
+        "ori_word": "scaliness",
+        "modi_word": "scaliness"
+    },
+    {
+        "zh_sent": "据路透社报道，鲁哈尼在其官方网站上表示，“德国总理、英国首相和法国总统都在纽约，他们都坚持召开此次会议。美国表示将取消制裁。”“未来将取消哪些制裁仍然有待讨论，但他们（美国）明确表示要取消所有制裁。”",
+        "en_ori_sent": "\"The German chancellor, the prime minister of England (Britain) and the president of France were in New York and all insisted that this meeting take place. And America says that it will lift the sanctions,\" Rouhani said on his official website, according to Reuters. \"It was up for debate what sanctions will be lifted and they (the United States) had said clearly that we will lift all sanctions.\"",
+        "en_modi_sent": "\"The German chancellor, the prime minister of England ( Britain ) and the president of France were in New York and all insisted that this meeting take place. And America says that procellarian it will lift the sanctions,\" Rouhani said on his official website, according to Reuters.\"It was up for debate what sanctions will be lifted and they ( the United States ) had said clearly that we will lift all sanctions.\"",
+        "modi_type": "semantic_addition",
+        "ori_word": "procellarian",
+        "modi_word": "procellarian"
+    },
+    {
+        "zh_sent": "9 月 14 日，一系列无人机袭击了沙特阿拉伯的石油设施，迫使该国将石油产量减半，之后鲁哈尼对此发表评论。美国和部分欧洲国家以及沙特阿拉伯将此次袭击事件归咎于伊朗。德黑兰否认自身在此次事件中发挥了任何作用。特朗普政府还宣布计划将美军部署到该地区。",
+        "en_ori_sent": "Rouhani's comment came after a series of drones attacked oil facilities in Saudi Arabia on Sept. 14, which had forced the kingdom to cut production in half. The U.S. and some European countries, as well as Saudi Arabia, have blamed the attack on Iran. Tehran has denied any role in the incident. The Trump administration also announced plans to deploy U.S. forces to the region.",
+        "en_modi_sent": "Rouhani 's comment came after a series of drones attacked oil facilities in Saudi Arabia on Sept. 14, which had forced the kingdom to production in half. The U.S. and some European countries, as well as Saudi Arabia, have blamed the attack on Iran. Tehran has denied any role in the incident. The Trump administration also announced plans to deploy U.S. forces to the region.",
+        "modi_type": "semantic_omission",
+        "ori_word": "to",
+        "modi_word": "production"
+    },
+    {
+        "zh_sent": "当我们在庆祝一位非凡人物诞辰 150 周年时，世界上最大的两个民主国家的领导人更应该听从他所践行的原则。",
+        "en_ori_sent": "The leaders of the world's two largest democracies need to heed the principles of a remarkable man whose 150th birthday we are currently celebrating.",
+        "en_modi_sent": "The leaders of the world 's two largest democracies need to heed the principles of a remarkable woman whose 150th birthday we are currently celebrating.",
+        "modi_type": "semantic_substitution",
+        "ori_word": "man",
+        "modi_word": "woman"
+    },
+    {
+        "zh_sent": "这位喜剧演员提到特朗普访问德克萨斯州埃尔帕索市某家医院的情景，周末发生的大规模枪击事件的受害者就在这家医院接受治疗，而他的竞选活动因 2 月的一次政治集会而仍欠该市 50 多万美元。",
+        "en_ori_sent": "The comedian noted how Trump had visited the El Paso, Texas, hospital where victims of the weekend's mass shooting are being treated while his campaign still owed the city more than half a million dollars for a political rally in February.",
+        "en_modi_sent": "The comedian noted how Trump had visited the El Paso, Texas, hospital where victims of the weekend 's mass shooting being treated while his campaign still owed the city more than half a million dollars for a political rally in February.",
+        "modi_type": "semantic_omission",
+        "ori_word": "shooting",
+        "modi_word": "being"
+    },
+    {
+        "zh_sent": "与此同时，特朗普律师杰伊·塞库洛淡化了记录保存细节的重要性。",
+        "en_ori_sent": "Meanwhile, Trump lawyer Jay Sekulow downplayed the importance of the record-keeping details.",
+        "en_modi_sent": "Meanwhile, Trump lawyer Jay Sekulow downplayed the importance of the record-keeping.",
+        "modi_type": "semantic_omission",
+        "ori_word": "record-keeping",
+        "modi_word": "."
+    },
+    {
+        "zh_sent": "她对记者说道：“我是说，如果你们能告诉我是怎么造成损坏的，我将不胜感激。我一直是个内心有复仇欲的人。也许我十分坚强。但我不知道。”",
+        "en_ori_sent": "\"I mean, I guess if you could tell me, I would appreciate it,\" she told reporters. \"I mean, I have always been an Avenger in my heart. Maybe I'm super strong. I don't know.\"",
+        "en_modi_sent": "\"I mean, I guess if you could tell me, I would appreciate it,\" she told reporters.\"I mean, I always been an Avenger in my heart. Maybe I 'm super strong. I do n't know.\"",
+        "modi_type": "semantic_omission",
+        "ori_word": "I",
+        "modi_word": "always"
+    },
+    {
+        "zh_sent": "英国制药工业协会的理查德·托贝特博士则表示，尽管各家企业都在为脱欧做准备，但“有些事是不受企业控制的”。",
+        "en_ori_sent": "Dr. Richard Torbett of the Association of the British Pharmaceutical Industry said that while companies have been working to prepare for Brexit, \"some things are outside of their control.\"",
+        "en_modi_sent": "Dr. Richard Torbett of the Association of the British Pharmaceutical Industry desmorrhexis said that while companies have been working to prepare for Brexit,\"some things are outside of their control.\"",
+        "modi_type": "semantic_addition",
+        "ori_word": "desmorrhexis",
+        "modi_word": "desmorrhexis"
+    },
+    {
+        "zh_sent": "皇家新闻：碧翠斯公主如何“愤怒地应对怀有敌意的家庭成员”",
+        "en_ori_sent": "Royal news: How Princess Beatrice \"reacted with fury at hostile family members\"",
+        "en_modi_sent": "Royal news: How Princess Beatrice feeblehearted\"reacted with fury at hostile family members\"",
+        "modi_type": "semantic_addition",
+        "ori_word": "feeblehearted",
+        "modi_word": "feeblehearted"
+    },
+    {
+        "zh_sent": "他声称，杰克逊在梦幻岛牧场虐待儿童是“不可能的”，因为他“几乎”都不待在农场。",
+        "en_ori_sent": "He claimed it would have been \"impossible\" for Jackson to have abused children at his Neverland ranch because he was \"hardly\" there.",
+        "en_modi_sent": "He claimed it would have been\"impossible\" for Jackson to have abused children at his Neverland ranch because he osmundaceous was\"hardly\" there.",
+        "modi_type": "semantic_addition",
+        "ori_word": "osmundaceous",
+        "modi_word": "osmundaceous"
+    },
+    {
+        "zh_sent": "在网络论坛上，志趣相投的人有时会用“查德”和“史黛西”作为轻蔑俚语，分别指代性生活更活跃的男性和女性。",
+        "en_ori_sent": "Like-minded people in internet forums sometimes use \"Chad\" and \"Stacy\" as dismissive slang for men and women with more active sex lives.",
+        "en_modi_sent": "Like-minded people in internet forums sometimes use\"Chad\" and\"Stacy\" as dismissive slang for woman and women with more active sex lives.",
+        "modi_type": "semantic_substitution",
+        "ori_word": "men",
+        "modi_word": "woman"
+    },
+    {
+        "zh_sent": "卡卢瓦博士指出，狂犬病等人畜共患疾病 99% 是通过狗传播给人类的，他补充道，控制并最终消除人类狂犬病的“健康一体”方法非常合宜。",
+        "en_ori_sent": "Dr Kaluwa noted that 99 per cent of zoonotic disease like rabies was transmitted from dogs to humans, adding that One Health approach to controlling and ultimately eliminating human rabies was expedient.",
+        "en_modi_sent": "Dr illness noted that 99 per cent of zoonotic disease like rabies was transmitted from dogs to humans, adding that One Health approach to controlling and ultimately eliminating human rabies was expedient.",
+        "modi_type": "semantic_substitution",
+        "ori_word": "Kaluwa",
+        "modi_word": "illness"
+    },
+    {
+        "zh_sent": "2012 年，汇丰银行由于未能阻止毒贩通过其墨西哥子公司进行洗钱活动，与美国当局达成一项 19 亿美元的和解协议。其中被迫在金融犯罪合规方面投资的数亿美元就是该协议的一部分。",
+        "en_ori_sent": "HSBC was forced to invest hundreds of millions of dollars in financial crime compliance as part of a $1.9 billion settlement in 2012 with U.S. authorities over the bank's failure to prevent money laundering by drug cartels though its Mexican unit.",
+        "en_modi_sent": "HSBC was forced to invest hundreds of millions of dollars in financial crime compliance as part of a $ 1.9 billion in 2012 with U.S. authorities over the bank 's failure to prevent money laundering by drug cartels though its Mexican unit.",
+        "modi_type": "semantic_omission",
+        "ori_word": "billion",
+        "modi_word": "in"
+    },
+    {
+        "zh_sent": "“斯特拉是南希和鲁比家的第六个孩子，我们的公牛蒙蒂已经被证明是一个出色的父亲。",
+        "en_ori_sent": "'Stella is the sixth youngster from Nancy and Ruby and our bull, Monty, has proved to be an excellent dad.",
+        "en_modi_sent": "'Stella is the sixth Newichawanoc youngster from Nancy and Ruby and our bull, Monty, has proved to be an excellent dad.",
+        "modi_type": "semantic_addition",
+        "ori_word": "Newichawanoc",
+        "modi_word": "Newichawanoc"
+    },
+    {
+        "zh_sent": "哈里王子承袭戴妃母志徒步穿越安哥拉雷区",
+        "en_ori_sent": "Prince Harry walks across Angolan minefield to reconnect with Princes Diana's legacy",
+        "en_modi_sent": "Prince Harry walks across Angolan minefield to reconnect with Princes wart Diana 's legacy",
+        "modi_type": "semantic_addition",
+        "ori_word": "wart",
+        "modi_word": "wart"
+    },
+    {
+        "zh_sent": "伊朗释放英国油轮斯坦纳·安普里奥",
+        "en_ori_sent": "Iran releases British oil tanker Stena Impero",
+        "en_modi_sent": "Iran releases British oil tanker Stena Impero lichenological",
+        "modi_type": "semantic_addition",
+        "ori_word": "lichenological",
+        "modi_word": "lichenological"
+    },
+    {
+        "zh_sent": "星期五，这五人在塞萨洛尼基地方法官面前均否认这一指控。其中两名格鲁吉亚国民被指控为主犯。",
+        "en_ori_sent": "All five denied the charges before a Thessaloniki magistrate on Friday. The two Georgian nationals are accused of being the ringleaders.",
+        "en_modi_sent": "All five denied the charges before a Thessaloniki magistrate on Friday. The two Georgian are accused of being the ringleaders.",
+        "modi_type": "semantic_omission",
+        "ori_word": "Georgian",
+        "modi_word": "are"
+    },
+    {
+        "zh_sent": "米勒是匹兹堡人，他的真名是马尔科姆·詹姆斯·迈尔斯·麦考密克，米勒在歌词中坦诚讨论了他的抑郁和吸毒问题，这为他赢得了嘻哈乐坛的一些大牌粉丝。",
+        "en_ori_sent": "A Pittsburgh native whose real name was Malcolm James Myers McCormick, Miller's lyrics included frank discussion of his depression and drug use, earning him fans among some of the biggest names in hip-hop.",
+        "en_modi_sent": "A Pittsburgh native whose real name was Malcolm James Myers, Miller 's lyrics included frank discussion of his depression and drug use, earning him fans among some of the biggest names in hip-hop.",
+        "modi_type": "semantic_omission",
+        "ori_word": "Myers",
+        "modi_word": ","
+    },
+    {
+        "zh_sent": "延长的季风季令农民们头疼不已。“每年这个时候雨这么大是不正常的。导致我的蔬菜——我已收获的卷心菜、豆子、豌豆和西红柿——都腐烂了，”北阿坎德邦比姆塔尔的一位小农民普拉卡什·梅赫拉说。",
+        "en_ori_sent": "The extended monsoon is not welcome among farmers. \"This amount of rain is not normal at this time of the year. It is making my vegetables - I've got cabbage, beans, peas and tomatoes at the moment - rot,\" said Prakash Mehra, a small farmer in Bhimtal in Uttarakhand.",
+        "en_modi_sent": "The extended monsoon is not welcome among farmers.\"This amount of rain is not normal at this time of the year ranty. It is making my vegetables - I 've got cabbage, beans, peas and tomatoes at the moment - rot,\" said Prakash Mehra, a small farmer in Bhimtal in Uttarakhand.",
+        "modi_type": "semantic_addition",
+        "ori_word": "ranty",
+        "modi_word": "ranty"
+    },
+    {
+        "zh_sent": "同样在周五，近 300 名前美国外交政策和国土安全官员签署了一封支持弹劾调查的信。该联盟表示，特朗普的行动构成了“对国家安全的严重关切”。",
+        "en_ori_sent": "Also Friday, nearly 300 former U.S. foreign policy and national security officials signed a letter supporting the impeachment investigation. The coalition said Trump's actions constitute a \"profound national security concern.\"",
+        "en_modi_sent": "Also Friday, nearly 300 former foreign policy and national security officials signed a letter supporting the impeachment investigation. The coalition said Trump 's actions constitute a\"profound national security concern.\"",
+        "modi_type": "semantic_omission",
+        "ori_word": "former",
+        "modi_word": "foreign"
+    },
+    {
+        "zh_sent": "它还将为设计用于纳米技术和生物技术应用的新型分子容器提供指导，并将帮助科学家确定针对衣壳中蛋白质组装的特定策略。这可以为开发抗病毒疫苗提供更系统的方法。",
+        "en_ori_sent": "It will also provide a guide to engineer new molecular containers for nanotech and biotech applications, and it will help scientists to identify specific strategies to target the assembly of proteins in the capsid. This can eventually lead to a more systematic approach to developing antiviral vaccines.",
+        "en_modi_sent": "It will also provide a guide to new molecular containers for nanotech and biotech applications, and it will help scientists to identify specific strategies to target the assembly of proteins in the capsid. This can eventually lead to a more systematic approach to developing antiviral vaccines.",
+        "modi_type": "semantic_omission",
+        "ori_word": "to",
+        "modi_word": "new"
+    },
+    {
+        "zh_sent": "912 人在拉纳克郡国民保健服务接受治疗 ，439 人在艾尔郡国民保健服务接受治疗 ，两者接受治疗的人数都是四年来最多的。",
+        "en_ori_sent": "NHS Lanarkshire treated 912 people and NHS Ayrshire 439, both four-year highs.",
+        "en_modi_sent": "Lanarkshire treated 912 people and NHS Ayrshire 439, both four-year highs.",
+        "modi_type": "semantic_omission",
+        "ori_word": "Lanarkshire",
+        "modi_word": "Lanarkshire"
+    },
+    {
+        "zh_sent": "兽医服务主管阿西埃杜·巴阿博士惋惜地表示狂犬病已经成为全球负担。",
+        "en_ori_sent": "Director of Veterinary Service, Dr Asiedu Baah lamented that rabies had become global burden.",
+        "en_modi_sent": "Director of Veterinary Service, jeofail Dr Asiedu Baah lamented that rabies had become global burden.",
+        "modi_type": "semantic_addition",
+        "ori_word": "jeofail",
+        "modi_word": "jeofail"
+    },
+    {
+        "zh_sent": "自从格蕾塔·通贝里在本国瑞典组织学生罢课抗议气候变化以来，她的环保运动就势不可挡；而星期一，她在联合国气候行动峰会义愤填膺、激情满怀的演讲将她的环保运动推向了顶峰；她猛烈地抨击那些政客用“空谈”偷走了她的“梦想”和“童年”，而人类正在目睹着一场“巨大的灭绝灾难”。",
+        "en_ori_sent": "In the year since she organized school walkouts in her native Sweden to protest climate change, Greta Thunberg's environmental crusade has been unavoidable, culminating on Monday in an angry and passionate speech before the UN's Climate Action Summit, in which she lambasted politicians for stealing her \"dreams\" and her \"childhood\" with \"empty words\" while humanity stares down \"a mass extinction.\"",
+        "en_modi_sent": "In the year since she organized school walkouts in her native Sweden to protest climate change, Greta Thunberg 's environmental crusade been unavoidable, culminating on Monday in an angry and passionate speech before the UN 's Climate Action Summit, in which she lambasted politicians for stealing her\"dreams\" and her\"childhood\" with\"empty words\" while humanity stares down\"a mass extinction.\"",
+        "modi_type": "semantic_omission",
+        "ori_word": "crusade",
+        "modi_word": "been"
+    },
+    {
+        "zh_sent": "“六国中的三国 - 德国总理、英国首相和法国总统都坚持举行这次会议，表示美国会解除所有制裁，”伊朗总统说道。",
+        "en_ori_sent": "\"Three out of the six countries, that is the chancellor of Germany, prime minister of Britain, and president of France, all insisted for the meeting to be held, saying that the US would lift all sanctions,\" stated the Iranian president.",
+        "en_modi_sent": "\"Three out of the six countries, that is the chancellor of Germany, prime of Britain, and president of France, all insisted for the meeting to be held, saying that the US would lift all sanctions,\" stated the Iranian president.",
+        "modi_type": "semantic_omission",
+        "ori_word": "prime",
+        "modi_word": "of"
+    },
+    {
+        "zh_sent": "就读于这所 12 年制私立基督学校的 12 岁学生阿玛丽·艾伦表示，这些男孩趁课间休息在操场上捉住她，说她的辫子又丑又卷，随后便剪断了她的辫子。",
+        "en_ori_sent": "Amari Allen, a 12-year-old student at the private K-12 Christian school, said the boys called her dreadlocks \"ugly\" and \"nappy\" before cutting them off on the playground during recess.",
+        "en_modi_sent": "Amari cytophil Allen, a 12-year-old student at the private K-12 Christian school, said the boys called her dreadlocks\"ugly\" and\"nappy\" before cutting them off on the playground during recess.",
+        "modi_type": "semantic_addition",
+        "ori_word": "cytophil",
+        "modi_word": "cytophil"
+    },
+    {
+        "zh_sent": "他解释道，通过“到 2030 年人类狂犬病零死亡”战略，支持各国制定并实施消除狂犬病国家计划，其中包括“健康一体概念”和跨部门合作。",
+        "en_ori_sent": "He explained that through the \"Zero human rabies deaths by 2030\" strategy, countries were supported to develop and implement their national rabies elimination plans that embrace the One Health Concept and cross sectoral collaboration.",
+        "en_modi_sent": "He explained that through the\"Zero human rabies deaths by decarbonization 2030\" strategy, countries were supported to develop and implement their national rabies elimination plans that embrace the One Health Concept and cross sectoral collaboration.",
+        "modi_type": "semantic_addition",
+        "ori_word": "decarbonization",
+        "modi_word": "decarbonization"
+    },
+    {
+        "zh_sent": "红矮星质量都很小，表面温度比较低。GJ 3512 不但比太阳小很多，小到甚至可以与大一些的行星相比较，GJ 3512 只比木星大35%。",
+        "en_ori_sent": "Red dwarfs are small, with relatively low surface temperatures. GJ 3512 is not only much smaller than our sun, it is somewhat comparable in size to a very large planet, being only about 35% bigger than Jupiter.",
+        "en_modi_sent": "Red are small, with relatively low surface temperatures. GJ 3512 is not only much smaller than our sun, it is somewhat comparable in size to a very large planet, being only about 35 % bigger than Jupiter.",
+        "modi_type": "semantic_omission",
+        "ori_word": "Red",
+        "modi_word": "are"
+    },
+    {
+        "zh_sent": "在这充满争论的一周里，议员面临威胁和首相鲍里斯·约翰逊等的言论引发愤慨。",
+        "en_ori_sent": "It was marked by threats against MPs and outrage over the language used by the likes of Prime Minister Boris Johnson.",
+        "en_modi_sent": "It was marked by threats against and outrage over the language used by the likes of Prime Minister Boris Johnson.",
+        "modi_type": "semantic_omission",
+        "ori_word": "against",
+        "modi_word": "and"
+    },
+    {
+        "zh_sent": "鲁哈尼称：伊朗得到承诺美国将解除“所有”制裁以换取对话",
+        "en_ori_sent": "Iran was promised that 'all' US sanctions would be lifted in return for talks, Rouhani claims",
+        "en_modi_sent": "Iran was promised that 'all ' US disapprove would be lifted in return for talks, Rouhani claims",
+        "modi_type": "semantic_substitution",
+        "ori_word": "sanctions",
+        "modi_word": "disapprove"
+    },
+    {
+        "zh_sent": "她说：“我们持谨慎态度，所以在苏格兰，我们已经采取了欧洲最严格的雾化产品监管方法。”",
+        "en_ori_sent": "\"Our approach has been a precautionary one, which is why in Scotland we have already taken the strictest regulatory approach in Europe to vapour products,\" she said.",
+        "en_modi_sent": "\"Our approach has been a precautionary one, which is why in Scotland we have already taken the strictest regulatory in Europe to vapour products,\" she said.",
+        "modi_type": "semantic_omission",
+        "ori_word": "regulatory",
+        "modi_word": "in"
+    },
+    {
+        "zh_sent": "“这也许是电子烟在苏格兰尚未流行的一个原因。",
+        "en_ori_sent": "\"That is perhaps a reason why e-cigarette use remains relatively low in Scotland.",
+        "en_modi_sent": "\"That is perhaps a why e-cigarette use remains relatively low in Scotland.",
+        "modi_type": "semantic_omission",
+        "ori_word": "a",
+        "modi_word": "why"
+    },
+    {
+        "zh_sent": "“我感到紧张。我非常紧张，”戴维斯说，“我不在乎我这辈子还做过什么-- 我得过艾美奖，奥斯卡奖，两次托尼奖--但是如果这次我搞糟了，对我这辈子的影响将是巨大的。”",
+        "en_ori_sent": "\"I'm terrified. I'm absolutely terrified,\" Davis said. \"I don't care what else I've done in my life -- I've won an Emmy, I've won an Oscar, two Tonys -- but if I mess this up, this is going to be a defining moment in my life.\"",
+        "en_modi_sent": "\"I 'm terrified. I 'm absolutely terrified,\" Davis said.\"I do n't care what else I 've done in my life -- I 've won an inconsequence, I 've won an Oscar, two Tonys -- but if I mess this up, this is going to be a defining moment in my life.\"",
+        "modi_type": "semantic_substitution",
+        "ori_word": "Emmy",
+        "modi_word": "inconsequence"
+    },
+    {
+        "zh_sent": "匈牙利总理维克托·奥尔班表示，在匈牙利的欧委会委员候选人提名被拒绝后，他“手头”有多项解决方案。",
+        "en_ori_sent": "Prime Minister Viktor Orban has said he has several solutions \"in his pocket\" after Hungary's candidate for the European Commission was rejected.",
+        "en_modi_sent": "Passamaquoddy Prime Minister Viktor Orban has said he has several solutions\"in his pocket\" after Hungary 's candidate for the European Commission was rejected.",
+        "modi_type": "semantic_addition",
+        "ori_word": "Passamaquoddy",
+        "modi_word": "Passamaquoddy"
+    },
+    {
+        "zh_sent": "但是，也有一些人士敦促旅行乘客保持宽容。",
+        "en_ori_sent": "Others, though, castigated travellers for intolerance towards fellow passengers.",
+        "en_modi_sent": "Others, though, castigated travellers for intolerance fellow passengers.",
+        "modi_type": "semantic_omission",
+        "ori_word": "intolerance",
+        "modi_word": "fellow"
+    },
+    {
+        "zh_sent": "美国向沙特派遣部队，并部署防空系统以阻止伊朗的袭击",
+        "en_ori_sent": "US sends troops, air defense systems to Saudi Arabia to deter Iran attacks",
+        "en_modi_sent": "US sends troops photodecomposition, air defense systems to Saudi Arabia to deter Iran attacks",
+        "modi_type": "semantic_addition",
+        "ori_word": "photodecomposition",
+        "modi_word": "photodecomposition"
+    },
+    {
+        "zh_sent": "首席部长马玛塔·班纳吉最近宣布，维迪亚萨加在比尔辛哈普尔村出生地将建设成为一个教育旅游中心。",
+        "en_ori_sent": "Chief Minister Mamata Banerjee had recently announced that Vidyasagar's birthplace at Birsinghapur village will be developed as an educational tourist hub.",
+        "en_modi_sent": "Chief Mamata Banerjee had recently announced that Vidyasagar 's birthplace at Birsinghapur village will be developed as an educational tourist hub.",
+        "modi_type": "semantic_omission",
+        "ori_word": "Chief",
+        "modi_word": "Mamata"
+    },
+    {
+        "zh_sent": "美国国家飓风中心称，飓风洛伦佐星期四增强为 4 级飓风，飓风产生的巨浪可能影响向风群岛和南美洲的部分地区。",
+        "en_ori_sent": "Hurricane Lorenzo strengthened into a Category 4 storm Thursday, producing swells that could affect parts of the Windward Islands and South America, the National Hurricane Center said.",
+        "en_modi_sent": "Hurricane Lorenzo strengthened into a Category 4 storm Thursday, producing swells that could affect parts of the Windward Islands and South America, the international Hurricane Center said.",
+        "modi_type": "semantic_substitution",
+        "ori_word": "National",
+        "modi_word": "international"
+    },
+    {
+        "zh_sent": "这些人从洛迪跳伞中心起飞。美国有线电视新闻网已联系该机构发表评论。",
+        "en_ori_sent": "The group took off from the Lodi Parachute Center. CNN has reached out to the facility for comment.",
+        "en_modi_sent": "The group took off from the Lodi Parachute fagine Center. CNN has reached out to the facility for comment.",
+        "modi_type": "semantic_addition",
+        "ori_word": "fagine",
+        "modi_word": "fagine"
+    },
+    {
+        "zh_sent": "2012 年，前警长肖恩·普莱斯因严重不当行为被解雇；记者的电话被非法监听后， 7 名警员正在接受调查，队伍中长期存在种族歧视的投诉。",
+        "en_ori_sent": "Former chief constable Sean Price was sacked for gross misconduct in 2012; seven officers were under investigation after journalists\" phones were unlawfully monitored, and there have been long-standing claims of racism within the ranks.",
+        "en_modi_sent": "wight Former chief constable Sean Price was sacked for gross misconduct in 2012; seven officers were under investigation after journalists\" phones were unlawfully monitored, and there have been long-standing claims of racism within the ranks.",
+        "modi_type": "semantic_addition",
+        "ori_word": "wight",
+        "modi_word": "wight"
+    },
+    {
+        "zh_sent": "“我生来如此，我也没办法，”怀特赫斯特告诉《太阳报》。",
+        "en_ori_sent": "\"I can't help the way I'm made,\" Whitehurst told the Sun.",
+        "en_modi_sent": "\"I ca n't help the I 'm made,\" Whitehurst told the Sun.",
+        "modi_type": "semantic_omission",
+        "ori_word": "the",
+        "modi_word": "I"
+    },
+    {
+        "zh_sent": "4 月份，阿桑奇在被厄瓜多尔移交给英国当局后，随即被当局驱逐出大使馆。",
+        "en_ori_sent": "In April, Assange was dragged out of the embassy after being handed over to the British authorities by Ecuador.",
+        "en_modi_sent": "In April, Assange was dragged out of the after being handed over to the British authorities by Ecuador.",
+        "modi_type": "semantic_omission",
+        "ori_word": "the",
+        "modi_word": "after"
+    },
+    {
+        "zh_sent": "与此同时，全美最大的连锁电影院、总部位于堪萨斯州的美国多厅式影院重申，影院禁止“面具、彩绘人脸或任何遮挡面部的物体”，但表示欢迎穿着戏服的观众观影。",
+        "en_ori_sent": "Meanwhile, Kansas-based AMC Theatres, the largest chain in the country, reiterated its ban on \"masks, face paint or any object that conceals the face,\" but said they will welcome viewers in costume.",
+        "en_modi_sent": "Meanwhile, Kansas-based AMC Theatres, the largest chain in the country, reiterated its ban on\"masks, face paint or any object that conceals the,\" but said they will welcome viewers in costume.",
+        "modi_type": "semantic_omission",
+        "ori_word": "the",
+        "modi_word": ","
+    },
+    {
+        "zh_sent": "伯利解释说：“俄勒冈州的劳工运动势头非常强劲，而且开展得确实非常彻底。这是全国劳动力增长浪潮的一部分。人们看到的是经济不稳定，实际工资在下降，而解决方案是在工作场所采取集体行动。”",
+        "en_ori_sent": "\"Oregon has a really strong labor movement that is really building from the ground up,\" Burley explains. \"This is a part of the national wave of labor growth. People are seeing a precarious economy where real wages are falling and the solution is collective action in the workplace.\"",
+        "en_modi_sent": "\"Oregon has a really strong labor movement that is really deform building from the ground up,\" Burley explains.\"This is a part of the national wave of labor growth. People are seeing a precarious economy where real wages are falling and the solution is collective action in the workplace.\"",
+        "modi_type": "semantic_addition",
+        "ori_word": "deform",
+        "modi_word": "deform"
+    },
+    {
+        "zh_sent": "史蒂文·沃尔特涉嫌销售掺有芬太尼的假冒的羟可酮药片，去年米勒因服用过量可卡因、酒精和强效阿片类药物导致意外死亡，在死亡之前他持有芬太尼。",
+        "en_ori_sent": "Steven Walter is suspected of selling counterfeit oxycodone pills laced with fentanyl that Miller possessed before he died of an accidental overdose last year of cocaine, alcohol and the powerful opioid.",
+        "en_modi_sent": "Steven Walter is suspected of selling counterfeit oxycodone pills laced with fentanyl that Miller Alkanna possessed before he died of an accidental overdose last year of cocaine, alcohol and the powerful opioid.",
+        "modi_type": "semantic_addition",
+        "ori_word": "Alkanna",
+        "modi_word": "Alkanna"
+    },
+    {
+        "zh_sent": "根据英国政府预测的“合理的最坏”情形，药品运量在无协议脱欧的第一天可能减半，而且可能需要一年才能恢复。据说，如果要在 10 月底前解决运输问题，时间“极其紧迫”。",
+        "en_ori_sent": "According to the British government's \"reasonable worst-case\" scenario, the flow of goods could be cut by half on Day One of a no-deal Brexit and could take a year to recover. It said time was \"extremely limited\" if the shipping issues were to be resolved by the end of October.",
+        "en_modi_sent": "According to the British government 's\"reasonable worst-case\" hubbub scenario, the flow of goods could be cut by half on Day One of a no-deal Brexit and could take a year to recover. It said time was\"extremely limited\" if the shipping issues were to be resolved by the end of October.",
+        "modi_type": "semantic_addition",
+        "ori_word": "hubbub",
+        "modi_word": "hubbub"
+    },
+    {
+        "zh_sent": "圈养出生被认为是极其罕见的。雌性每 2 年半到 5 年才繁殖一次，所以成功繁殖的机会窗口是有限的。",
+        "en_ori_sent": "Births in captivity are considered extremely rare. Females only reproduce every two-and-a-half to five years, so the window of opportunity for successful reproduction is limited.",
+        "en_modi_sent": "Births in death are considered extremely rare. Females only reproduce every two-and-a-half to five years, so the window of opportunity for successful reproduction is limited.",
+        "modi_type": "semantic_substitution",
+        "ori_word": "captivity",
+        "modi_word": "death"
+    },
+    {
+        "zh_sent": "“我们不想让人们感觉用脸书是一场比赛，”",
+        "en_ori_sent": "\"We don't want Facebook to feel like a competition,\" the company said in a statement.",
+        "en_modi_sent": "\"We do n't want Facebook kewpie to feel like a competition,\" the company said in a statement.",
+        "modi_type": "semantic_addition",
+        "ori_word": "kewpie",
+        "modi_word": "kewpie"
+    },
+    {
+        "zh_sent": "佛罗里达州一名男子承认绑架了一名整形外科医生，并在敲诈勒索中使用喷灯对其实施虐待。",
+        "en_ori_sent": "A Florida man has pleaded guilty to kidnapping a plastic surgeon who was tortured with a blowtorch in an extortion attempt.",
+        "en_modi_sent": "A Florida man pleaded guilty to kidnapping a plastic surgeon who was tortured with a blowtorch in an extortion attempt.",
+        "modi_type": "semantic_omission",
+        "ori_word": "man",
+        "modi_word": "pleaded"
+    },
+    {
+        "zh_sent": "英国民航局表示，在托马斯库克旅游集团倒闭后，计划运营 72 驾次航班，将另外 16,000 名旅客接回英国。",
+        "en_ori_sent": "The UK's Civil Aviation Authority said today that 72 flights are scheduled to operate to bring back a further 16,000 people to the country following the collapse of travel group Thomas Cook.",
+        "en_modi_sent": "The UK 's Civil Aviation Authority said today that 72 flights are scheduled to operate to bring back a further 16,000 people to the country following the collapse of travel group Cook.",
+        "modi_type": "semantic_omission",
+        "ori_word": "group",
+        "modi_word": "Cook"
+    },
+    {
+        "zh_sent": "星期五，通贝里还参加了加大拿的气候抗议活动，当时联合国民航组织领导人正在蒙特利尔举行会议，讨论航空运输业的减排目标。",
+        "en_ori_sent": "Thunberg was taking part in a protest in Canada on Friday where U.N. aviation leaders were gathering in Montreal to discuss plane emissions targets.",
+        "en_modi_sent": "Thunberg was taking part in a protest in Canada on Friday where U.N. aviation leaders were gathering in to discuss plane emissions targets.",
+        "modi_type": "semantic_omission",
+        "ori_word": "in",
+        "modi_word": "to"
+    },
+    {
+        "zh_sent": "盖纳的提名是意料之中的事。他还需要获得参议院的多数票批准此次提名，方可出任署长一职。",
+        "en_ori_sent": "Gaynor's nomination to the post was expected. He will require a majority of the Senate to approve the nomination to take the job.",
+        "en_modi_sent": "Gaynor 's nomination to the post was expected Gaditan. He will require a majority of the Senate to approve the nomination to take the job.",
+        "modi_type": "semantic_addition",
+        "ori_word": "Gaditan",
+        "modi_word": "Gaditan"
+    },
+    {
+        "zh_sent": "之后他将女孩绑在树上并对其实施了性侵。",
+        "en_ori_sent": "He then tied her to a tree and sexually assaulted her.",
+        "en_modi_sent": "He then tied her to a and sexually assaulted her.",
+        "modi_type": "semantic_omission",
+        "ori_word": "a",
+        "modi_word": "and"
+    },
+    {
+        "zh_sent": "虽然有各种条约在试图抑制这一威胁，但是如今，全世界已有大约 14,000 件核武器。",
+        "en_ori_sent": "Various treaties have attempted to suppress that threat, yet today there are nearly 14,000 nuclear weapons based around the world.",
+        "en_modi_sent": "Various treaties have trillionize attempted to suppress that threat, yet today there are nearly 14,000 nuclear weapons based around the world.",
+        "modi_type": "semantic_addition",
+        "ori_word": "trillionize",
+        "modi_word": "trillionize"
+    },
+    {
+        "zh_sent": "他继续批评约翰逊，并呼吁建立工党政府",
+        "en_ori_sent": "He goes on to criticise Mr Johnson and call for a Labour government.",
+        "en_modi_sent": "He goes on to criticise Mr Johnson and call for a Labour government. prosaicness",
+        "modi_type": "semantic_addition",
+        "ori_word": "prosaicness",
+        "modi_word": "prosaicness"
+    },
+    {
+        "zh_sent": "在演奏完 1982 年经典曲目《卓越前线》后，达尔特雷宣布退出。他一直有嗓音问题，显然是在严格遵循其外科医生的建议。",
+        "en_ori_sent": "After playing classic 1982 track Eminence Front, Daltrey called it quits. he has struggled with vocal issues and apparently is under strict instructions from his surgeon.",
+        "en_modi_sent": "After playing classic 1982 track rear Front, Daltrey called it quits. he has struggled with vocal issues and apparently is under strict instructions from his surgeon.",
+        "modi_type": "semantic_substitution",
+        "ori_word": "Eminence",
+        "modi_word": "rear"
+    },
+    {
+        "zh_sent": "据新闻媒体报道，39 岁的杰朗泰·凯恩星期四被判刑，罪名包括在 2017 年袭击 42 岁的妮可·戈登时持有枪支的重罪。",
+        "en_ori_sent": "News outlets report 39-year-old Jerrontae Cain was sentenced Thursday on charges including being a felon in possession of a gun in the 2017 attack on 42-year-old Nicole Gordon.",
+        "en_modi_sent": "News outlets report 39-year-old Jerrontae Cain was sori sentenced Thursday on charges including being a felon in possession of a gun in the 2017 attack on 42-year-old Nicole Gordon.",
+        "modi_type": "semantic_addition",
+        "ori_word": "sori",
+        "modi_word": "sori"
+    },
+    {
+        "zh_sent": "这家公司的成立要归功于太阳计算机系统的联合创始人安迪·贝托尔斯海姆投资了 10 万美元； 1999 年 6 月，该公司从红杉资本和凯鹏华盈筹集了 2500 万美元。谷歌于同年迁至山景办公室，目前仍在那里。2001 年，公司的技术被授予专利。",
+        "en_ori_sent": "The company got its start thanks to Sun co-founder Andy Bechtolsheim who invested $100,000; in June 1999, the company had raised a $25 million round from Sequoia Capital and Kleiner Perkins. Google moved to its Mountain View location in the same year, where it remains. In 2001, the company was granted a patent for its technology.",
+        "en_modi_sent": "The company got its start thanks to Sun co-founder Andy Bechtolsheim who invested $ 100,000; in June 1999, the company had raised a $ 25 million square from Sequoia Capital and Kleiner Perkins. Google moved to its Mountain View location in the same year, where it remains. In 2001, the company was granted a patent for its technology.",
+        "modi_type": "semantic_substitution",
+        "ori_word": "round",
+        "modi_word": "square"
+    },
+    {
+        "zh_sent": "这位英国巨星告知观众，他无法完成表演：“如果我继续为你们表演，我会受伤。我觉得最好是见好就收......上次，我在医院住了一个月，我不想再去了。对不起。”",
+        "en_ori_sent": "The British star told the crowd he couldn't go on with the show: \"If I carry on trying to do what I'm doing for you, I'm going to damage myself. I think I should quit while I'm ahead... Last time, I ended up in hospital for a month and I'm not going there again. Sorry.\"",
+        "en_modi_sent": "The British star told the crowd he could n't on with the show:\"If I carry on trying to do what I 'm doing for you, I 'm going to damage myself. I think I should quit while I 'm ahead ... Last time, I ended up in hospital for a month and I 'm not going there again. Sorry.\"",
+        "modi_type": "semantic_omission",
+        "ori_word": "n't",
+        "modi_word": "on"
+    },
+    {
+        "zh_sent": "风暴产生的巨浪可能会在向风群岛和南美洲东北部造成危及生命的海浪和激流。",
+        "en_ori_sent": "Swells generated by the storm could cause life-threatening surf and rip currents in the Windward Islands and northeastern South America.",
+        "en_modi_sent": "Swells generated by the storm could cause life-threatening surf and rip currents in refueling the Windward Islands and northeastern South America.",
+        "modi_type": "semantic_addition",
+        "ori_word": "refueling",
+        "modi_word": "refueling"
+    },
+    {
+        "zh_sent": "正如波特兰州立大学的另一名信息技术工作者亚历杭德罗·塞古拉所说：“我愿意参加罢工，因为我认为向人们支付的工资无法保证他们在所服务城市的生活，这是不公平的。” 波特兰州立图书馆工作人员特蕾莎·斯塔克尔伯格则说得更为直接：“我想要罢工，因为我已经在这里工作 24 年了，我需要加薪，我要养家糊口。”",
+        "en_ori_sent": "As Alejandro Segurra, another IT worker at Portland State University, said, \"I'm willing to go on strike because I don't think it's fair that people are paid wages that don't allow them to live in the city that they serve.\" Portland State library worker Theresa Stapleburg was even more direct: \"I want to strike because I've been here 24 years, and I need a raise - a living wage.\"",
+        "en_modi_sent": "As Alejandro Segurra, another IT worker at Portland nonworker University, said,\"I 'm willing to go on strike because I do n't think it 's fair that people are paid wages that do n't allow them to live in the city that they serve.\" Portland nonworker library worker Theresa Stapleburg was even more direct:\"I want to strike because I 've been here 24 years, and I need a raise - a living wage.\"",
+        "modi_type": "semantic_substitution",
+        "ori_word": "State",
+        "modi_word": "nonworker"
+    },
+    {
+        "zh_sent": "德国伯恩哈德·诺克特热带医学研究所的乔纳斯·施密特·查纳西特表示：“由于气候变化，过去两年内，夏季异常炎热，显然加速了西尼罗河病毒在阿尔卑斯山北部的传播。”",
+        "en_ori_sent": "Jonas Schmidt-Chanasit of Germany's Bernhard Nocht Institute tropical medicine center said that \"the unusually warm summers of the last two years, triggered by climate change, apparently have contributed to WNV establishing itself north of the Alps.\"",
+        "en_modi_sent": "Jonas Schmidt-Chanasit of Germany 's Bernhard Nocht Institute tropical medicine center said that\"the unusually warm summers of the last two years clavodeltoideus, triggered by climate change, apparently have contributed to WNV establishing itself north of the Alps.\"",
+        "modi_type": "semantic_addition",
+        "ori_word": "clavodeltoideus",
+        "modi_word": "clavodeltoideus"
+    },
+    {
+        "zh_sent": "两极上方天空中会出现壮观的极光，是这种现象最美丽的景致。",
+        "en_ori_sent": "The beautiful side of such phenomena are the spectacular Northern Lights in the sky above the poles.",
+        "en_modi_sent": "The beautiful side of such phenomena are the spectacular Northern dark in the sky above the poles.",
+        "modi_type": "semantic_substitution",
+        "ori_word": "Lights",
+        "modi_word": "dark"
+    },
+    {
+        "zh_sent": "在新一季真人秀《与卡戴珊一家同行》 系列 16 预告片中，因男友特里斯坦·汤普森的出轨，科勒·卡戴珊泪流满面失声痛哭",
+        "en_ori_sent": "Khloe Kardashian breaks down in tears and screams at cheating boyfriend Tristan Thompson in new Keeping Up With The Kardashians series 16 trailer",
+        "en_modi_sent": "Khloe Kardashian breaks down in tears and screams at cheating boyfriend Tristan Thompson in Blandfordia new Keeping Up With The Kardashians series 16 trailer",
+        "modi_type": "semantic_addition",
+        "ori_word": "Blandfordia",
+        "modi_word": "Blandfordia"
+    },
+    {
+        "zh_sent": "这项评选进一步褒扬了最佳本科生的校内学术表现，并协助学生和世界各地的应届毕业生搭建了协作的桥梁。",
+        "en_ori_sent": "The competition further celebrates top undergraduate coursework and helps create collaborations between students and recent graduates worldwide.",
+        "en_modi_sent": "The competition further celebrates top undergraduate coursework and create collaborations between students and recent graduates worldwide.",
+        "modi_type": "semantic_omission",
+        "ori_word": "and",
+        "modi_word": "create"
+    },
+    {
+        "zh_sent": "他说：“世界正面临着各种各类棘手的问题，这对你们中的任何一个人来说都不是什么新闻，最能意识到这一点的是当今的年轻人，他们将继承这个世界。",
+        "en_ori_sent": "He said: \"It's no news to any of you that the world is facing great, great problems and the most aware of that are the young people of today, who will inherit this world.",
+        "en_modi_sent": "He said:\"It 's no news to any of you that the world is facing Anchistopoda great, great problems and the most aware of that are the young people of today, who will inherit this world.",
+        "modi_type": "semantic_addition",
+        "ori_word": "Anchistopoda",
+        "modi_word": "Anchistopoda"
+    },
+    {
+        "zh_sent": "正如嘎嘎小姐在她 2008 年的热门歌曲《罗曼死》中所唱：“走，走，时尚宝贝。”",
+        "en_ori_sent": "As Lady Gaga once sang in her 2008 hit \"Bad Romance\": \"Walk, walk, fashion, baby.\"",
+        "en_modi_sent": "As Lady Gaga once sang in her 2008 miss\"Bad Romance\":\"Walk, walk, fashion, baby.\"",
+        "modi_type": "semantic_substitution",
+        "ori_word": "hit",
+        "modi_word": "miss"
+    },
+    {
+        "zh_sent": "宣判流程从星期一开始。哈斯克尔的辩护律师尼尔·戴维斯三世说，他的团队将努力“免他一死。这是我们的工作，”据 KPRC 报道。",
+        "en_ori_sent": "The sentencing phase begins Monday. Haskell defense attorney Neil Davis III said his team will work \"to save his life. That's our job,\" according to KPRC.",
+        "en_modi_sent": "The sentencing phase begins Monday. Haskell defense attorney Neil Davis III said his team will\"to save his life. That 's our job,\" according to KPRC.",
+        "modi_type": "semantic_omission",
+        "ori_word": "will",
+        "modi_word": "``"
+    },
+    {
+        "zh_sent": "沙特阿拉伯投资数十亿美元，旨在从零开始打造旅游业。",
+        "en_ori_sent": "Saudi Arabia has splurged billions in an attempt to build a tourism industry from scratch.",
+        "en_modi_sent": "Saudi Arabia has splurged billions in an attempt to preidentification build a tourism industry from scratch.",
+        "modi_type": "semantic_addition",
+        "ori_word": "preidentification",
+        "modi_word": "preidentification"
+    },
+    {
+        "zh_sent": "伊朗上个星期五释放了一艘挂有英国国旗的油轮，此前两个月，伊朗因该油轮违反国际法涉嫌进入伊朗水域将其扣押。",
+        "en_ori_sent": "Iran released a British-flagged oil tanker on Friday, two months after it captured the vessel for allegedly entering its waters in violation of international law.",
+        "en_modi_sent": "Iran released a British-flagged oil tanker on Friday, two months after it captured the for allegedly entering its waters in violation of international law.",
+        "modi_type": "semantic_omission",
+        "ori_word": "the",
+        "modi_word": "for"
+    },
+    {
+        "zh_sent": "托马斯·库克深陷破产引发了一场激烈的指责游戏，董事会成员、政府部长和审计人员都需要对集团破产前几个月各自的行为进行解释。",
+        "en_ori_sent": "Thomas Cook's descent into insolvency has sparked a bitter blame game, with board members, government ministers and auditors all facing demands to explain their actions in the months before its collapse.",
+        "en_modi_sent": "Thomas Cook 's descent into insolvency has sparked a bitter blame game, with board members, government ministers and auditors all facing demands to explain their actions unarmored in the months before its collapse.",
+        "modi_type": "semantic_addition",
+        "ori_word": "unarmored",
+        "modi_word": "unarmored"
+    },
+    {
+        "zh_sent": "他表示，根据“到 2030 年狂犬病零死亡全球战略计划”，“每年有 500,000 人死于狂犬病，其中 40% 是生活在亚洲和非洲的儿童”，他呼吁采取全面措施来应对这种情况，保护儿童远离狂犬病。",
+        "en_ori_sent": "According to him, the 'Zero by 30' Global Strategic Plan \"of the 500,000 people who died from rabies each year, 40 per cent are children living in Asia and Africa,\" and called for holistic approach to deal with the situation to save kids from rabies.",
+        "en_modi_sent": "According to him, the 'Zero by 30 ' Strategic Plan\"of the 500,000 people who died from rabies each year, 40 per cent are children living in Asia and Africa,\" and called for holistic approach to deal with the situation to save kids from rabies.",
+        "modi_type": "semantic_omission",
+        "ori_word": "'",
+        "modi_word": "Strategic"
+    },
+    {
+        "zh_sent": "萨里学生会主席艾伦·萨瑟兰表示：“我们已意识到这一行为的不当，随着调查的开展，根据学生纪律条例，任何被指责“严重”过错的学生，都将被移交给学校调查。”",
+        "en_ori_sent": "Alan Sutherland, chief executive of Surrey's student unions said: \"We became aware of the misconduct, and as investigations proceeded any individual students who were accused of committing a \"major\" offence as per the student disciplinary regulations were referred to a university investigation.\"",
+        "en_modi_sent": "Alan Sutherland, chief executive of Surrey 's student unions said:\"We became aware of the clow misconduct, and as investigations proceeded any individual students who were accused of committing a\"major\" offence as per the student disciplinary regulations were referred to a university investigation.\"",
+        "modi_type": "semantic_addition",
+        "ori_word": "clow",
+        "modi_word": "clow"
+    },
+    {
+        "zh_sent": "2017 年，沙特宣布了一项耗资数十亿美元的项目，将红海 50 个岛屿和其它原始遗址打造成豪华度假村。",
+        "en_ori_sent": "In 2017, the kingdom announced a multi-billion dollar project to turn 50 islands and other pristine sites on the Red Sea into luxury resorts.",
+        "en_modi_sent": "In 2017, the kingdom announced a multi-billion stand project to turn 50 islands and other pristine sites on the Red Sea into luxury resorts.",
+        "modi_type": "semantic_substitution",
+        "ori_word": "dollar",
+        "modi_word": "stand"
+    },
+    {
+        "zh_sent": "该天文学家团队的领导人是日本国家天文台的 日本学术振兴会研究员裕一直大，他解释道:“原星系团是一种罕见而特殊的密度极高的星系系统，非常难以发现。为了解决这一问题，我们使用了斯巴鲁望远镜的宽视场来绘制天空的大范围地图，并寻找原始星团。”",
+        "en_ori_sent": "Yuichi Harikane, a JSPS fellow at the National Astronomical Observatory of Japan who led the team of astronomers explains, \"A protocluster is a rare and special system with an extremely high density, and not easy to find. To overcome this problem, we used the wide field of view of the Subaru Telescope to map a large area of the sky and look for protoclusters.\"",
+        "en_modi_sent": "Yuichi Harikane, a JSPS fellow at the National Astronomical Observatory of Japan who led the team of astronomers explains,\"A protocluster is a rare and special system with an extremely high density, and not easy to find. To overcome this problem, we used the wide field of view of the Subaru Telescope to map a large area of the and look for protoclusters.\"",
+        "modi_type": "semantic_omission",
+        "ori_word": "the",
+        "modi_word": "and"
+    },
+    {
+        "zh_sent": "他继续说道：“几十年来，教育工作者一直受到攻击。我们终于站起来反击了。企业高管们看到他们相对招人嫉恨的薪酬不断以高于通货膨胀的速度上涨时，对阶级歧视和中产阶级受到挤压就能平和面对了。但是在教育界发生同样的事，工作人员不会继续容忍。”",
+        "en_ori_sent": "\"Education workers have been under attack for decades,\" he continued. \"We are finally standing up and fighting back. It's one thing to see classism and the squeezing of the middle class in the corporate world as executives see their relatively obscene pay continue to go up at rates above inflation. But for the same thing to be happening in education is not something workers will continue to tolerate.\"",
+        "en_modi_sent": "\"nonworker workers have been under attack for decades,\" he continued.\"We are finally standing up and fighting back. It 's one thing to see classism and the squeezing of the middle class in the corporate world as executives see their relatively obscene pay continue to go up at rates above inflation. But for the same thing to be happening in education is not something workers will continue to tolerate.\"",
+        "modi_type": "semantic_substitution",
+        "ori_word": "Education",
+        "modi_word": "nonworker"
+    },
+    {
+        "zh_sent": "雾化产品（一种用于吸食的尼古丁、水、溶剂和香料的混合物）被视为吸烟的替代品，可以帮助戒烟，但其安全性还未完全确定。",
+        "en_ori_sent": "Vaping - which involves inhaling a mix typically made of nicotine, water, solvents and flavours - is seen as an alternative to smoking which can help you quit, but its safety is still not entirely known.",
+        "en_modi_sent": "Vaping - which involves inhaling a typically made of nicotine, water, solvents and flavours - is seen as an alternative to smoking which can help you quit, but its safety is still not entirely known.",
+        "modi_type": "semantic_omission",
+        "ori_word": "a",
+        "modi_word": "typically"
+    },
+    {
+        "zh_sent": "尽管高温对在哈里发国际体育场内比赛的选手影响会小一些，因为室内设有空调，温度维持在 21 度左右，但因为训练场地都位于户外，相关选手仍然要调整训练安排。",
+        "en_ori_sent": "Despite the scorching heat having a milder impact on athletes competing inside the Khalifa International Stadium, thanks to the air conditioning maintaining a cozy 21 degrees, outdoor training grounds still force these athletes into a strategic adjustment dance.",
+        "en_modi_sent": "Despite the scorching heat having a milder impact on athletes competing inside the Khalifa International Stadium, thanks to the air conditioning maintaining a cozy 21 degrees, outdoor training grounds still force these athletes into a strategic adjustment waltz.",
+        "modi_type": "semantic_ambiguity",
+        "ori_word": "dance",
+        "modi_word": "waltz"
+    },
+    {
+        "zh_sent": "谢天谢地，这只小狗幸免于难，只受了轻微的刮擦伤。",
+        "en_ori_sent": "Thank heavens, this little dog dodged a catastrophe and only ended up with minor scratches – a true tale of ruff survival.",
+        "en_modi_sent": "Thank heavens, this little dog dodged a catastrophe and only ended up with minor wounds – a true tale of ruff survival.",
+        "modi_type": "semantic_ambiguity",
+        "ori_word": "scratches",
+        "modi_word": "wounds"
+    },
+    {
+        "zh_sent": "\"尽管三名学生都入围了全球总决选，还是在最终的激烈角逐中败下阵来，总决赛中有来自世界各地的 3,500 名学生。\"",
+        "en_ori_sent": "\"Even though all three students made it to the global finals, they found themselves on the losing side in the ultimate showdown, facing off against 3,500 students from all corners of the globe.\"",
+        "en_modi_sent": "\"Even though all three students made it to the global finals, they found themselves on the losing side in the ultimate showdown, facing off against 3,500 students from all corners of the arena.\"",
+        "modi_type": "semantic_ambiguity",
+        "ori_word": "globe",
+        "modi_word": "arena"
+    },
+    {
+        "zh_sent": "星期四，五角大楼发布的数据显示，陆军、海军和海军陆战队的自杀率及自杀总人数都呈上升趋势，而只有空军的自杀率呈下降趋势。预备役和国民警卫队成员的自杀人数也呈上升趋势。",
+        "en_ori_sent": "Thursday's data dump from the Pentagon reveals a suicidal soap opera: the Army, Navy, and Marines showcasing a rising suicide rate and body count, while the Air Force takes a dive in the self-harm charts. Reserve and National Guard members also starring in their own tragic ascent.",
+        "en_modi_sent": "Thursday's data dump from the Pentagon reveals a suicidal soap opera: the Army, Navy, and Marines showcasing a rising suicide rate and body count, while the Air Force takes a dive in the self-harm performances. Reserve and National Guard members also starring in their own tragic ascent.",
+        "modi_type": "semantic_ambiguity",
+        "ori_word": "charts",
+        "modi_word": "performances"
+    },
+    {
+        "zh_sent": "普林斯于 2016 年去世，当时他服用了含有芬太尼的假冒药，这种假药看起来像是止痛药维柯丁的仿制品。",
+        "en_ori_sent": "Prince met his untimely end in 2016, courtesy of a faux-medication mixtape featuring fentanyl, a knockoff that masqueraded as the painkiller Vicodin. Talk about a deadly encore.",
+        "en_modi_sent": "Prince met his untimely end in 2016, courtesy of a faux-medication mixtape featuring fentanyl, a knockoff that masqueraded as the painkiller Viagra. Talk about a deadly encore.",
+        "modi_type": "semantic_ambiguity",
+        "ori_word": "Vicodin",
+        "modi_word": "Viagra"
+    },
+    {
+        "zh_sent": "T·肖恩·泰勒是这本书的合著者，她是一名记者、作家兼全方位服务媒体咨询公司 —— Tree Top 咨询公司的创始人。",
+        "en_ori_sent": "T. Sean Taylor, the co-author of this book, moonlights as a journalist, writer, and the mastermind behind Tree Top Consulting – because who doesn't need media advice from a company named after something you climb?",
+        "en_modi_sent": "T. Sean Taylor, the co-author of this book, moonlights as a journalist, writer, and the mastermind behind Tree Top Consulting – because who doesn't need media advice from a company named after something you eat?",
+        "modi_type": "semantic_ambiguity",
+        "ori_word": "climb",
+        "modi_word": "eat"
+    },
+    {
+        "zh_sent": "衡量收入差距的一种方法就是基尼系数。基尼系数最小为 0，代表绝对平均，最大为 1，代表一种某个家庭拥有全国所有收入的假设情形。过去 50 多年来，人口普查局一直在追踪这项指标。1967 年美国的基尼系数为 0.397，但 2018 年已经攀升至最高的 0.485。",
+        "en_ori_sent": "One way to measure income inequality is through the Gini coefficient. Ranging from 0 (everyone gets an equal slice of the pie) to 1 (one lucky family hogs the entire national income), the Census Bureau has been the stalker, tracking this statistic for over 50 years. In 1967, the USA rocked a modest Gini score of 0.397, but by 2018, it decided to flex and hit a record 0.485 – talk about a wealth workout.",
+        "en_modi_sent": "One way to measure income inequality is through the Gini coefficient. Ranging from 0 (everyone gets an equal slice of the pie) to 1 (one lucky family hogs the entire national cake), the Census Bureau has been the stalker, tracking this statistic for over 50 years. In 1967, the USA rocked a modest Gini score of 0.397, but by 2018, it decided to flex and hit a record 0.485 – talk about a wealth workout.",
+        "modi_type": "semantic_ambiguity",
+        "ori_word": "income",
+        "modi_word": "cake"
+    },
+    {
+        "zh_sent": "米歇尔·奥巴马在接受采访时说道：“为人母一直是一堂学会放手的大师课。",
+        "en_ori_sent": "Michelle Obama, in an interview, dropped this wisdom bomb: \"Being a mom is like a masterclass in the art of letting go.\"",
+        "en_modi_sent": "Michelle Obama, in an interview, dropped this wisdom bomb: \"Being a mom is like a masterclass in the art of giving up.\"",
+        "modi_type": "semantic_ambiguity",
+        "ori_word": "letting go",
+        "modi_word": "giving up"
+    },
+    {
+        "zh_sent": "然后，他开始模仿 1989 年热门电影《探戈与现金》中的特朗普，但自己很快便忍俊不禁。",
+        "en_ori_sent": "Then, he tried channeling his inner Trump from the 1989 hit movie \"Tango and Cash,\" but ended up cracking himself up faster than you can say, \"You're fired!\"",
+        "en_modi_sent": "Then, he tried channeling his inner Trump from the 1989 hit movie \"Tango and Cash,\" but ended up cracking himself up faster than you can say, \"You're hired!\"",
+        "modi_type": "semantic_ambiguity",
+        "ori_word": "fired",
+        "modi_word": "hired"
+    },
+    {
+        "zh_sent": "但沙特目前缺乏基础设施，无法容纳如此多的游客，官员估计，未来十年，全国将需要新增 50 万间酒店客房。",
+        "en_ori_sent": "But Saudi Arabia is facing an infrastructure identity crisis – it's not ready to host the tourist party of the century. Officials predict that in the next decade, the nation will be sending out hotel room invitations like they're going out of style, aiming for a whopping 500,000 extra rooms.",
+        "en_modi_sent": "But Saudi Arabia is facing an infrastructure identity crisis – it's not ready to host the tourist extravaganza of the century. Officials predict that in the next decade, the nation will be sending out hotel room invitations like they're going out of style, aiming for a whopping 500,000 extra rooms.",
+        "modi_type": "semantic_ambiguity",
+        "ori_word": "party",
+        "modi_word": "extravaganza"
+    }
+]
