@@ -8,5 +8,8 @@
     - The stylized translations for the 200 sentences are saved in `data/data_from_llm.csv`, where 1-50, 51-100, 101-150, 151-200 sentences are translated in the style of *Polite*, *Casual*, *Technical*, and *Humorous*, respectively. 
   - The rest ***200*** instances (`data/sample_200_for_gold.csv`) are taken as gold translation from Translator (e.g., Google Translator).  
 
-- Generated Data: Based on each instance, we apply different mutations, and the results are saved in `data/generated_data/`.
+- **Generated Data**: Based on each instance, we apply different mutations, and the results are saved in `data/generated_data/`.
   - The mutation is chosen from \[*grammer_swap*, *grammer_agreement*,  *grammer_punc*, *semantic_substitution*, *semantic_omission*, *semantic_addition*, *semantic_ambiguity*\]
+
+- **Final Data**: Utilizing the `NLTK` tool to perform mutation.
+  - `samples_gold.json` stores the mutation data based on gold translation.
