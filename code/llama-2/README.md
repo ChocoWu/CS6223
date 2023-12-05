@@ -4,31 +4,29 @@
 ```
 ├── llama2.py     # the main code
 ├── prompt.py     # saving the prompt for LLama-2
-├── simple
+├── simple        # with simple prompt
 │   ├── filter    # after manually checking if the mutant is killed
 │   │   ├── mutant_detected_samples_gold.json                      
 │   │   ├── mutant_detected_samples_llm.json                         
-│   ├── detected_samples_gold.json                          # instruction data
-│   ├── detected_samples_llm.json                          # instruction data
-│   ├── mutant_detected_samples_gold.json                          # instruction data
-│   ├── mutant_detected_samples_llm.json                          # instruction data
-│   ├── postprocess_detected_samples_gold.json                          # instruction data
-│   ├── postprocess_detected_samples_llm.json                          # instruction data
-│   │   ├── T+X-T_data                    # text+[image/audio/video] to text instruction data
-│   │   │   ├── alpaca                    # textual instruction data
-│   │   │   ├── llava                     # visual instruction data
-│   │   ├── T-T+X                         # synthesized text to text+[image/audio/video] instruction data
-│   │   └── MosIT                         # Modality-switching Instruction Tuning instruction data
-├── code
-│   ├── config
-│   │   ├── base.yaml                     # the model configuration 
-│   │   ├── stage_1.yaml                  # enc-side alignment training configuration
-│   │   ├── stage_2.yaml                  # dec-side alignment training configuration
-│   │   └── stage_3.yaml                  # instruction-tuning configuration
-│   ├── dsconfig
-│   │   ├── stage_1.json                  # deepspeed configuration for enc-side alignment training
-│   │   ├── stage_2.json                  # deepspeed configuration for dec-side alignment training
-│   │   └── stage_3.json                  # deepspeed configuration for instruction-tuning training
+│   ├── detected_samples_gold.json                          # evaluation of the translation
+│   ├── detected_samples_llm.json                         
+│   ├── postprocess_detected_samples_gold.json              # postprocess the evaluation results
+│   ├── postprocess_detected_samples_llm.json                         
+│   ├── mutant_detected_samples_gold.json                   # auto-matic checking if the mutant is killed
+│   ├── mutant_detected_samples_llm.json
+├── complex      # with complex prompt
+│   ├── filter    # after manually checking if the mutant is killed
+│   │   ├── mutant_detected_samples_gold.json                      
+│   │   ├── mutant_detected_samples_llm.json                         
+│   ├── detected_samples_gold.json                          # evaluation of the translation
+│   ├── detected_samples_llm.json                         
+│   ├── postprocess_detected_samples_gold.json              # postprocess the evaluation results
+│   ├── postprocess_detected_samples_llm.json                         
+│   ├── mutant_detected_samples_gold.json                   # auto-matic checking if the mutant is killed
+│   ├── mutant_detected_samples_llm.json                 
+├── data
+│   ├── samples_gold.json    # the mutated data for evaluating         
+│   ├── samples_llm.json
 │   ├── datast
 │   │   ├── base_dataset.py
 │   │   ├── catalog.py                    # the catalog information of the dataset
