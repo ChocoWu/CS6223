@@ -175,8 +175,8 @@ def count_result(data_path):
 if __name__ == "__main__":
 
     # # load model
-    # # model_name = "/mnt/shengqiongwu/pretrained_ckpt/vicuna/7b-v1.5/"
-    # model_name = "/mnt/shengqiongwu/pretrained_ckpt/llama-2/13b-chat/"
+    # # model_name = "./pretrained_ckpt/vicuna/7b-v1.5/"
+    # model_name = "./pretrained_ckpt/llama-2/13b-chat/"
 
     # tokenizer = LlamaTokenizer.from_pretrained(model_name)
     # tokenizer.pad_token = tokenizer.eos_token
