@@ -27,7 +27,6 @@
 ├── data
 │   ├── samples_gold.json             # the mutated data for evaluating         
 │   ├── samples_llm.json
-│   ├── datast
 ├── repair_data.json                  # sampled data for evaluating repairing
 ├── rectified_data.json               # rectified via LLama-2
 ├── postprocess_rectified_data.json   # postprocessing                     
