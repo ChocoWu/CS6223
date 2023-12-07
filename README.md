@@ -17,3 +17,6 @@
 
 ## Evaluating via LLama-2
 - Please refer to the directory `code/llama-2` for the details.
+  
+## Evaluating via ChatGPT
+- Please refer to the directory `code/chatgpt-based` for the details. 
