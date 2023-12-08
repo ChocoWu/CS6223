@@ -89,8 +89,7 @@ if __name__ == '__main__':
     args = parse_args()
     set_seed(args.seed)
 
-    openai.api_key = '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'
-    # openai.api_key = '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' # xinyu
+    openai.api_key = 'sk-xxxx'
     # GPT parameters
     gpt_args = dict(
         engine=args.engine,
